@@ -1,0 +1,17 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.match-win {
+    @apply inline-block rounded-full w-4 text-white text-xs font-bold bg-win-green;
+}
+
+.match-draw {
+    @apply inline-block rounded-full w-4 text-white font-bold bg-draw-gray;
+}
+
+.match-lose {
+    @apply inline-block rounded-full w-4 text-white text-xs bg-lose-red;
+}
