@@ -11,4 +11,7 @@ class Article extends Model
         'updated_at',
         'date'
     ];
+
+    protected $dateFormat = 'U';
+    public $timestamps = false;
 }

@@ -12,7 +12,6 @@ class TableController extends Controller
     {
 
         $teams = \App\Standings::getStandingsOff();
-        //dd($teams);
         return view('table')->with('teams', $teams);
     }
 

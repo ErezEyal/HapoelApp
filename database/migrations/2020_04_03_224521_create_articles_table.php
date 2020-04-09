@@ -21,7 +21,7 @@ class CreateArticlesTable extends Migration
             $table->unsignedInteger('date');
             $table->string('image', 300);
             $table->string('site', 300);
-            $table->timestamps();
+            //$table->timestamps();
         });
     }
 
