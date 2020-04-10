@@ -25,11 +25,11 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         $schedule->call(function () {
-            App\Standings::getStandings();
-        })->everyThirtyMinutes()->sendOutputTo("standingsOutput.txt");
+            \App\Standings::getStandings();
+        })->everyThirtyMinutes();
 
         $schedule->call(function () {
-            App\Articles::getArticles()->sendOutputTo("articlesOutput.txt");
+            \App\Articles::getArticles();
         })->everyFiveMinutes();
 
         $schedule->call(function () {
