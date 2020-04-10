@@ -29,10 +29,10 @@ class Kernel extends ConsoleKernel
         })->everyThirtyMinutes();
 
         $schedule->call(function () {
-            //test
             \App\Articles::getArticles();
         })->everyMinute();
 
+        // test schedule
         $schedule->call(function () {
             file_put_contents('currentTime.txt', date('Y-m-d H:i'));
         })->everyMinute();
