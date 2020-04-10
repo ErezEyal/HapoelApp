@@ -20,6 +20,7 @@ class Articles
     // return an array of article from all news sites
     public static function getArticles()
     {
+        file_put_contents('currentArticlesTime1.txt', date('Y-m-d H:i'));
         // fetch all articles and save them in one array
         self::updateArticleFiles();
         $articles = array_merge(
