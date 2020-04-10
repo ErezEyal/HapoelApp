@@ -26,10 +26,10 @@ class Kernel extends ConsoleKernel
     {
         $schedule->call(function () {
             App\Standings::getStandings();
-        })->everyThirtyMinutes();
+        })->everyThirtyMinutes()->sendOutputTo("standingsOutput.txt");
 
         $schedule->call(function () {
-            App\Articles::getArticles();
+            App\Articles::getArticles()->sendOutputTo("articlesOutput.txt");
         })->everyFiveMinutes();
 
         $schedule->call(function () {
