@@ -29,7 +29,8 @@ class Kernel extends ConsoleKernel
         })->everyThirtyMinutes();
 
         $schedule->call(function () {
-            \App\Articles::getArticles();
+            //\App\Articles::getArticles();
+            file_put_contents('currentArticlesTime.txt', date('Y-m-d H:i'));
         })->everyFiveMinutes();
 
         $schedule->call(function () {
