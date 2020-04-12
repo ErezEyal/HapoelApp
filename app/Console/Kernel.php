@@ -26,11 +26,15 @@ class Kernel extends ConsoleKernel
     {
         $schedule->call(function () {
             \App\Standings::getStandings();
-        })->everyThirtyMinutes();
+        })->hourly();
 
         $schedule->call(function () {
             \App\Articles::getArticles();
         })->everyMinute();
+
+        $schedule->call(function () {
+            \App\Matches::getMatches();
+        })->dailyAt('20:25');
 
         // test schedule
         $schedule->call(function () {
