@@ -35,7 +35,7 @@
 
                                     <span>
                                         {{ date("l, m/d/Y",$matches["futureMatches"][$number]["date"]) }}
-                                        {{ $matches["futureMatches"][$number]["date"] < time() ? ' (postponsed)' : ''}}
+                                        {{ $matches["futureMatches"][$number]["date"] < time() ? ' (postponed)' : ''}}
                                     </span>
                                 </div>
 

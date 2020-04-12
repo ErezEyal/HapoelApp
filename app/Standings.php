@@ -33,8 +33,7 @@ class Standings
             echo "cURL Error #:" . $err;
         } else {
             $standings = json_decode($response)->api->standings[2];
-            file_put_contents('league.txt', json_encode($standings));
-            file_put_contents('test1234.txt', json_encode($standings));
+            file_put_contents('public/league.txt', json_encode($standings));
             return $standings;
         }
     }

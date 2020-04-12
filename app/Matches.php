@@ -66,7 +66,7 @@ class Matches
                 "futureMatches" => $futureMatches
             ];
 
-            file_put_contents('matches.txt', json_encode($matches));
+            file_put_contents('public/matches.txt', json_encode($matches));
             return $matches;
         }
     }
