@@ -6,6 +6,7 @@ class Matches
 {
     static function getMatches()
     {
+        file_put_contents('currentMatchesTime1.txt', date('Y-m-d H:i'));
         $curl = curl_init();
 
         curl_setopt_array($curl, array(

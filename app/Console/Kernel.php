@@ -34,7 +34,7 @@ class Kernel extends ConsoleKernel
 
         $schedule->call(function () {
             \App\Matches::getMatches();
-        })->dailyAt('20:32');
+        })->everyMinute();
 
         // test schedule
         $schedule->call(function () {

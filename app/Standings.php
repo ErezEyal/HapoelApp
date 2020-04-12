@@ -6,6 +6,7 @@ class Standings
 {
     static function getStandings()
     {
+        file_put_contents('currentStandingsTime1.txt', date('Y-m-d H:i'));
         $curl = curl_init();
 
         curl_setopt_array($curl, array(
