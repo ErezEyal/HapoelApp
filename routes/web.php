@@ -17,7 +17,8 @@ use Illuminate\Support\Facades\Route;
 //    return view('welcome');
 //});
 
-Route::redirect('/', '/standings');
+Route::redirect('/', '/home');
+Route::get('/home', 'MainController@showHome');
 Route::get('/standings', 'TableController@show');
 Route::get('/news', 'MainController@showNews');
 Route::get('/matches', 'MainController@showMatches');

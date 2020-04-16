@@ -3,7 +3,7 @@
 @section('main')
     <div class="-mt-3 mx-auto border-gray-200 shadow-md rounded-sm" style="border-bottom: 1px solid #e7e7e7; color: #757575; font-size: 12px; background-color: #f1f3f4;width: 752px">
         <span class="block pl-6 pt-4">Season</span>
-        <span class="block pl-6 pt-1 pb-2 font-bold" style="font-size: 14px; color: #4286f4">2019-20 &#9662;</span>
+        <span class="block pl-6 pt-1 pb-2 font-bold" style="font-size: 14px; color: #4286f4">2019-20 </span>
     </div>
     <div class="mx-auto border-gray-200 shadow-md rounded-sm bg-white" style="border-bottom: 1px solid #e7e7e7; color: black; font-size: 12px; width: 752px">
         <div class="flex">
@@ -73,17 +73,6 @@
                                    </td>
                                 <td class="w-24 overflow-hidden border-solid border-white border-b-0 border-r-0 border-l-0"></td>
                             </tr>
-{{--                            <tr>--}}
-{{--                                <td class="text-left border-solid border-gray-300 border-b-0 border-l-0 border-r-0 pr-2 py-3">{{ $team->rank }} &ensp; {{ $team->teamName }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 px-2 py-3">{{ $team->all->matchsPlayed }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 px-2 py-3">{{ $team->all->win }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 px-2 py-3">{{ $team->all->draw }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 px-2 py-3">{{ $team->all->lose }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 px-2 py-3">{{ $team->all->goalsFor }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 px-2 py-3">{{ $team->all->goalsAgainst }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 px-2 py-3">{{ $team->goalsDiff }}</td>--}}
-{{--                                <td class="border-solid border-gray-300 border-b-0 border-l-0 border-r-0 pl-2 py-3">{{ $team->points }}</td>--}}
-{{--                            </tr>--}}
                         @endforeach
                     </tbody>
                 </table>

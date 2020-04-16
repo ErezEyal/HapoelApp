@@ -3,30 +3,44 @@
     <title>ACAB</title>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body class="m-0 overflow-y-scroll overflow-x-hidden" style="background: #F2F2F2; font-family: arial,sans-serif;">
-    <div class="w-screen">
-            <div style="height: 55px; background: #FB4242">
+<body class="m-0 overflow-y-scroll overflow-x-hidden bg-gray-100 bg-no-repeat bg-cover bg-center bg-fixed" style="backkkkkground-image: url('bg.jpg'); font-family: arial,sans-serif;">
+    <div class="w-screen top-0 fixed">
+            <div style="background: #C70101" class="shadow-md">
+                <div class="grid grid-cols-9 mb-4 mx-auto h-16" name="nav-bar" style="width: 752px; background: #C70101">
+                    <div name="image">
+                        <img src="https://media.api-sports.io/teams/4501.png" class="w-12 ml-3 mt-2">
+                    </div>
 
-            </div>
-            <div style="background: #FB4242" class="shadow-md">
-                <div class="grid grid-cols-5 mb-4 mx-auto" name="nav-bar" style="width: 752px; background: #FB4242">
-                    <div name="Matches" style="height: 46px" class="hover:bg-red-600 {{ Request::is('matches') ? 'border-solid border-white border-2 border-t-0 border-l-0 border-r-0' : '' }} ">
-                        <a href="/matches" class="block h-full text-center py-4 text-xs no-underline" style="color: {{ Request::is('matches') ? 'white' : '#d2dae7' }}">MATCHES</a>
+                    <a href="/home" class="col-span-2 text-center font-bold text-sm no-underline hover:text-white {{ Request::is('home') ? 'text-white' : 'text-gray-400' }}">
+                        <div name="home"  class="tracking-wider">
+                            <span style="line-height:62px;">HOME</span>
+                        </div>
+                    </a>
+
+                    <a href="/matches" class="col-span-2 text-center font-bold text-sm no-underline hover:text-white {{ Request::is('matches') ? 'text-white' : 'text-gray-400' }}">
+                        <div name="Matches"  class="tracking-wider">
+                            <span style="line-height:62px;">MATCHES</span>
                     </div>
-                    <div name="News" style="height: 46px" class="hover:bg-red-600 {{ Request::is('news') ? 'border-solid border-white border-2 border-t-0 border-l-0 border-r-0' : '' }} ">
-                        <a href="/news" class="block h-full text-center py-4 text-xs no-underline" style="color: {{ Request::is('news') ? 'white' : '#d2dae7' }}">NEWS</a>
-                    </div>
-                    <div name="table" style="height: 46px" class="hover:bg-red-600 {{ Request::is('standings') ? 'border-solid border-white border-2 border-t-0 border-l-0 border-r-0' : '' }} ">
-                        <a href="/standings" class="block h-full text-center py-4 text-xs no-underline" style="color: {{ Request::is('table') ? 'white' : '#d2dae7' }}">STANDINGS</a>
-                    </div>
-                    <div name="stats" style="height: 46px" class="hover:bg-red-600 {{ Request::is('stats') ? 'border-solid border-white border-2 border-t-0 border-l-0 border-r-0' : '' }} ">
-                        <a href="#" class="block h-full text-center py-4 text-xs no-underline" style="color: {{ Request::is('stats') ? 'white' : '#d2dae7' }}">STATS</a>
-                    </div>
-                    <div name="players" style="height: 46px" class="hover:bg-red-600 {{ Request::is('players') ? 'border-solid border-white border-2 border-t-0 border-l-0 border-r-0' : '' }} ">
-                        <a href="#" class="block h-full text-center py-4 text-xs no-underline" style="color: {{ Request::is('players') ? 'white' : '#d2dae7' }}">PLAYERS</a>
-                    </div>
+                    </a>
+
+                    <a href="/news" class="col-span-2 text-center font-bold text-sm no-underline hover:text-white {{ Request::is('news') ? 'text-white' : 'text-gray-400' }}">
+                        <div name="News"  class="tracking-wider">
+                            <span style="line-height:62px;">NEWS</span>
+                        </div>
+                    </a>
+
+                    <a href="/standings" class="col-span-2 text-center font-bold text-sm no-underline hover:text-white {{ Request::is('standings') ? 'text-white' : 'text-gray-400' }}">
+                        <div name="table"  class="tracking-wider">
+                            <span style="line-height:62px;">STANDINGS</span>
+                        </div>
+                    </a>
+
+
                 </div>
             </div>
+    </div>
+    <div name="main" class="mt-20">
         @yield('main')
+    </div>
 </body>
 </html>

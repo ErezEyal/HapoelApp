@@ -1,8 +1,8 @@
 @extends('layouts.app')
 
 @section('main')
-    <div class="-mt-3 mx-auto shadow-md rounded-sm" style="border-bottom: 2px solid #737373; color: #757575; background-color: #edeff0;width: 752px">
-        <span class="block pl-6 py-6 font-bold">Upcoming matches</span>
+    <div class="-mt-3 mx-auto shadow-md rounded-sm" style="border-bottom: 1px solid #737373; color: #757575; background-color: #edeff0;width: 752px">
+        <span class="block pl-6 py-4 font-bold">Upcoming matches</span>
     </div>
     <div class="mx-auto bg-white border-gray-200 shadow-md rounded-sm" style="width: 752px;">
         <div>
@@ -68,8 +68,8 @@
             @endforeach
         </div>
     </div>
-        <div class="mx-auto border-gray-200 shadow-md rounded-sm" style="border-bottom: 2px solid #737373; color: #757575; background-color: #edeff0;width: 752px">
-            <span class="inline-block pl-6 py-6 font-bold">Recent matches </span>
+        <div class="mx-auto border-gray-200 shadow-md rounded-sm" style="border-bottom: 1px solid #737373; color: #757575; background-color: #edeff0;width: 752px">
+            <span class="inline-block pl-6 py-4 font-bold">Recent matches </span>
             <div class="inline-block pl-2 w-64">
 {{--                @foreach(['W','W','L','D','W'] as $letter)--}}
 {{--                    @switch($letter)--}}
