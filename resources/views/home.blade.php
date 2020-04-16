@@ -131,7 +131,7 @@
                                 <span style="color: #70757a; font-size: 12px">{{ $articles->first()->date->format('F j, o - H:i') }}</span>
                             </div>
                             <p class="m-1 text-gray-800">
-                                {{ html_entity_decode($articles->first()->description) }}
+                                {{ strlen(html_entity_decode($articles->first()->description)) < 300 ? html_entity_decode($articles->first()->description) : substr(html_entity_decode($articles->first()->description),0,300) . '...' }}
                                 <a class="px-1 text-sm no-underline" target="_blank" href="{{ $articles->first()->url}}"> לכתבה המלאה</a>
                             </p>
 
@@ -143,9 +143,9 @@
             </div>
             <div class="bag-blue-200 w-1/4">
 
-                <div style="width: 300px" class="p-3 pr-0 pb-0 pt-2 border-gray-300 bg-white rounded-md rounded-b-sm border-solid mb-6 overflow-hidden">
+                <div style="width: 300px" class="p-3 px-0 pb-0 pt-2 border-gray-300 bg-white rounded-md rounded-b-sm border-solid mb-6 overflow-hidden">
                     <div class="-mt-2 -ml-5 -mr-5 p-2" style="background-color: #F3F3F3">
-                        <span class="p-2 text-xs tracking-wide text-white" style="background-color: #00ACEC">Hapoel On Twitter</span>
+                        <span class="p-2 pl-5 text-xs tracking-wide text-white" style="background-color: #00ACEC">Hapoel On Twitter</span>
                     </div>
 
                     <div style="height: 720px; overflow: auto">
