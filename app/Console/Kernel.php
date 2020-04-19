@@ -30,7 +30,7 @@ class Kernel extends ConsoleKernel
 
         $schedule->call(function () {
             \App\Articles::getArticles();
-        })->everyMinute();
+        })->everyTenMinutes();
 
         $schedule->call(function () {
             \App\Matches::getMatches();
@@ -39,7 +39,7 @@ class Kernel extends ConsoleKernel
         // test schedule
         $schedule->call(function () {
             file_put_contents('currentTime.txt', date('Y-m-d H:i'));
-        })->everyMinute();
+        })->everyFiveMinutes();
     }
 
     /**
