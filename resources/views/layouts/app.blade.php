@@ -67,6 +67,30 @@
             });
             document.querySelector("#" + section + "-button").style.color = 'white';
         }
+        function recentMatches() {
+            var btnRecent = document.querySelector('#recentButton');
+            var btnNext = document.querySelector('#nextButton');
+            btnRecent.classList.add("bg-gray-700");
+            btnRecent.classList.remove("bg-gray-500");
+
+            btnNext.classList.add("bg-gray-500");
+            btnNext.classList.remove("bg-gray-700");
+
+            document.querySelector('#recentMatches').style.display = 'block';
+            document.querySelector('#futureMatches').style.display = 'none';
+        }
+        function nextMatches() {
+            var btnRecent = document.querySelector('#recentButton');
+            var btnNext = document.querySelector('#nextButton');
+            btnRecent.classList.add("bg-gray-500");
+            btnRecent.classList.remove("bg-gray-700");
+
+            btnNext.classList.add("bg-gray-700");
+            btnNext.classList.remove("bg-gray-500");
+
+            document.querySelector('#recentMatches').style.display = 'none';
+            document.querySelector('#futureMatches').style.display = 'block';
+        }
     </script>
 </body>
 </html>

@@ -30,21 +30,21 @@ new Vue({
         indexUp: function () {
             if (this.i < this.articles.length - 1) {
                 this.i++;
-                gsap.from(".article-animation", {duration: 0.7, opacity: 0.3});
+                gsap.fromTo(".article-animation", {opacity: 0.3},{duration: 0.7, opacity: 1});
             }
             else {
                 this.i = 0;
-                gsap.from(".article-animation", {duration: 0.7, opacity: 0.3});
+                gsap.fromTo(".article-animation", {opacity: 0.3},{duration: 0.7, opacity: 1});
             }
         },
         indexDown: function () {
             if (this.i > 0) {
                 this.i--;
-                gsap.from(".article-animation", {duration: 0.7, opacity: 0.3});
+                gsap.fromTo(".article-animation", {opacity: 0.3},{duration: 0.7, opacity: 1});
             }
             else {
                 this.i = this.articles.length - 1;
-                gsap.from(".article-animation", {duration: 0.7, opacity: 0.3});
+                gsap.fromTo(".article-animation", {opacity: 0.3},{duration: 0.7, opacity: 1});
             }
         },
     },

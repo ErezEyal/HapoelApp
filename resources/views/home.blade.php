@@ -271,7 +271,12 @@
 
     <div id="matches" class="section">
             <div class="mx-auto" style="width: 800px">
-                @foreach(array_slice($matches['futureMatches'],0,3) as $match)
+                <div class="pt-3 pb-1 ml-6">
+                    <button id="recentButton" onclick="recentMatches()" class="cursor-pointer hover:bg-gray-700 outline-none px-3 mr-2 py-2 font-bold shadow-sm text-sm bg-gray-700 text-gray-200 rounded-md border-gray-400 border-solid">Recent Matches</button>
+                    <button id="nextButton" onclick="nextMatches()" class="cursor-pointer hover:bg-gray-700 outline-none px-3 py-2 font-bold shadow-sm text-sm bg-gray-500 text-gray-200 rounded-md border-gray-400 border-solid">Next Matches</button>
+                </div>
+                <div id="futureMatches" class="hidden">
+                @foreach($matches['futureMatches'] as $match)
                     <div class="flex borader-solid border-gray-400 my-6 bg-white rounded-lg rounded-b-none shadow-md">
 
                         <div class="w-1/3 text-center px-6">
@@ -283,7 +288,9 @@
                                                 <span class="py-3 font-bold text-gray-800">
                                                     {{ date("l, m/d/Y",$match["date"]) }} <br>
                                                     {{ $match["date"] < time() ? ' (postponed)' : ''}}
-                                                    <br>
+                                                    @if($match["date"] < time())
+                                                        <br>
+                                                    @endif
                                                 </span>
                                 </div>
                                 <span class="text-sm text-gray-600 leading-normal">
@@ -294,7 +301,7 @@
 
                         <div class="w-1/3 -ml-3 pl-1">
                             <div class="mt-8">
-                                <img class="align-middle block mx-auto" src="{{ $match["rivalLogo"] }}" width="80">
+                                <img class="align-middle block mx-auto" src="{{ $match["rivalLogo"] }}" width="60">
                             </div>
                             <div class="text-center mb-8 mt-2">
                                 <span class="text-lg align-middle">{{ $match["teamName"] }} </span>
@@ -304,7 +311,7 @@
 
 
                         <div class="px-2 -mr-8 mt-2 relative w-1/3">
-                            <div class="text-center m-10 mb-6">
+                            <div class="text-center m-6">
                                 @if ($match["away"])
                                     <span class="p-1 px-3 mt-2 border-solid text-sm rounded-md border-gray-200 text-white bg-red-600 font-bold"> Away </span>
                                 @else
@@ -319,6 +326,8 @@
                         </div>
                     </div>
                 @endforeach
+                </div>
+                <div id="recentMatches">
                     @foreach(array_reverse(array_slice($matches['pastMatches'],-20)) as $match)
                         <div class="flex borader-solid border-gray-400 my-6 bg-white rounded-lg rounded-b-none shadow-md">
 
@@ -340,7 +349,7 @@
 
                             <div class="w-1/3 -ml-3 pl-1">
                                     <div class="mt-8">
-                                        <img class="align-middle block mx-auto" src="{{ $match["rivalLogo"] }}" width="80">
+                                        <img class="align-middle block mx-auto" src="{{ $match["rivalLogo"] }}" width="60">
                                     </div>
                                     <div class="text-center mb-8 mt-2">
                                         <span class="text-lg align-middle">{{ $match["teamName"] }} </span>
@@ -350,14 +359,14 @@
 
 
                             <div class="px-2 -mr-8 mt-2 relative w-1/3">
-                                <div class="text-center m-10 mb-6">
+                                <div class="text-center m-6 mb-6">
                                     @if ($match["away"])
                                         <span class="p-1 px-3 mt-2 border-solid text-sm rounded-md border-gray-200 text-white bg-red-600 font-bold"> Away </span>
                                     @else
                                         <span class="p-1 px-3 mt-2 border-solid text-sm rounded-md border-gray-200 text-white bg-red-600 font-bold"> Home </span>
                                     @endif
                                 </div>
-                                <div class="text-center m-6">
+                                <div class="text-center">
                                     <span style="font-size: 50px" class="font-mono align-middle {{ $match["away"] ? 'text-gray-800' : 'text-red-600' }} ">{{ $match["away"] ? $match["GoalsAgainst"] : $match["GoalsFor"]}}</span>
                                     <span class="text-3xl mx-2 font-mono align-middle font-bold text-gray-600">-</span>
                                     <span style="font-size: 50px" class="font-mono align-middle {{ $match["away"] ? 'text-red-600' : 'text-gray-800' }} ">{{ $match["away"] ? $match["GoalsFor"] : $match["GoalsAgainst"]}} </span>
@@ -365,6 +374,7 @@
                             </div>
                         </div>
                     @endforeach
+                </div>
             </div>
         </div>
 
