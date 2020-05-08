@@ -45,4 +45,9 @@ class MainController extends Controller
         }
         return $articles;
     }
+
+        public function loading() {
+
+        return view('loading');
+    }
 }

@@ -36,6 +36,7 @@
 
 
 <!--header biding-->
+    <script id="vad-hb-snippet" data-publisher="sport1_maariv">var _0x3587 = ['text/javascript', 'cmd', 'document', 'push', 'data-publisher', 'pubads', 'appendChild', 'refresh', '_vadHb', 'head', '?timestamp=', 'sport1_maariv', 'async', 'googletag', 'disableInitialLoad', 'vad-hb-script', 'createElement', 'unshift', 'script', 'src', 'setAttribute', 'top', 'now', '//cdn.valuad.cloud/hb/']; (function (_0x30feb9, _0x3587a0) { var _0x45b7a5 = function (_0x17addc) { while (--_0x17addc) { _0x30feb9['push'](_0x30feb9['shift']()); } }; _0x45b7a5(++_0x3587a0); }(_0x3587, 0x131)); var _0x45b7 = function (_0x30feb9, _0x3587a0) { _0x30feb9 = _0x30feb9 - 0x0; var _0x45b7a5 = _0x3587[_0x30feb9]; return _0x45b7a5; }; (function () { function _0x47bdec() { var _0x153f06 = _0x45b7('0x12'); var _0x163b3d = _0x45b7('0x16'); var _0x42ade5 = Date[_0x45b7('0x5')]() % 0x83d600; var _0x9aa90f = window['top'][_0x45b7('0x9')][_0x45b7('0x17')](_0x45b7('0x1')); _0x9aa90f['type'] = _0x45b7('0x7'); _0x9aa90f[_0x45b7('0x3')](_0x45b7('0xb'), _0x153f06); _0x9aa90f['id'] = _0x163b3d; _0x9aa90f[_0x45b7('0x13')] = !![]; _0x9aa90f[_0x45b7('0x2')] = _0x45b7('0x6') + _0x153f06 + '-prod.js' + _0x45b7('0x11') + _0x42ade5; window[_0x45b7('0x4')]['document'][_0x45b7('0x10')][_0x45b7('0xd')](_0x9aa90f); } function _0x2dacad() { window[_0x45b7('0x14')] = window[_0x45b7('0x14')] || { 'cmd': [] }; window[_0x45b7('0x14')]['cmd'] = window[_0x45b7('0x14')]['cmd'] || []; var _0x52eb32 = window['googletag']; var _0x392003 = function () { _0x52eb32[_0x45b7('0xc')]()[_0x45b7('0x15')](); }; if (_0x52eb32[_0x45b7('0x8')][_0x45b7('0x0')]) _0x52eb32['cmd'][_0x45b7('0x0')](_0x392003); else _0x52eb32['cmd'][_0x45b7('0xa')](_0x392003); } function _0x4cef4f() { window[_0x45b7('0x14')] = window[_0x45b7('0x14')] || { 'cmd': [] }; var _0x190ecd = window[_0x45b7('0x14')]; _0x190ecd[_0x45b7('0x8')][_0x45b7('0xa')](function () { if (!window[_0x45b7('0xf')]) _0x190ecd[_0x45b7('0xe')](); }); } _0x2dacad(); _0x47bdec(); setTimeout(function () { _0x4cef4f(); }, 0xbb8); }());</script>
 <script src="//cdn.valuad.cloud/pxb/pxb-sport1_maariv-prod.js" id="pxbScript" data-publisher="sport1_maariv"></script>
 <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <!--header biding-->
@@ -956,6 +957,506 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-15')
 
                                 <div class="category-article category-article-list-item">
                                     <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834160">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/675390" alt="אוהדי הפועל תל אביב צילום(דני מרון)" title="אוהדי הפועל תל אביב צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834160">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">&quot;אם העונה הבאה תיפתח ללא קהל, הפועל ת&quot;א חוששת מקריסה. חייבים עזרה&quot;</span>
+                                            <h4>הכדורגל חוזר, אבל יו&quot;ר ההתאחדות אורן חסון מוטרד כל עוד המדינה לא תסייע ושופך אור כיצד ייפתרו ענייני החוזים: &quot;קבוצות יחתימו שחקנים על הארכת הסכם. אי אפשר לשחק ללא ביטוח&quot;</h4>
+                                            <span>איציק יצחקי 08/05/2020 10:49</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834111">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/678128" alt="עומר בראון צילום( Patrick Smith / Staff)" title="עומר בראון צילום( Patrick Smith / Staff)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834111">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">בהפועל תל אביב אישרו: עומר בראון חתם לעונה עם אופציה</span>
+                                            <h4>על רקע הדיווחים במולדתו לפיהם הצטרף לקבוצה של קלינגר, בחודרוב אישרו: הפנמי יגיע בהעברה חופשית ויחתום לשנה עם אופציה לשנתיים נוספות. כשהטיסות לישראל יחזרו לסדרן, יגיע לארץ כדי לעבור בדיקות רפואיות</h4>
+                                            <span>מיכאל וייסרמן 07/05/2020 09:31</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834101">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/675806" alt="שחקני הפועל תל אביב חוגגים צילום(דני מרון)" title="שחקני הפועל תל אביב חוגגים צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834101">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">שחקני הפועל ת&quot;א יקשיחו את התנאים לקיצוץ בעונה הבאה. בשלישי: משחק מול בני יהודה</span>
+                                            <h4>בעקבות החזרה לליגה, השחקנים טוענים: התנאים השתנו. אם תותר התקהלות, לא נסכים לקיצוץ של 50 אחוז. בראשון: פגישה מכרעת עם הוועדה לרישוי מועדונים. מאור בוזגלו: &quot;רק אלוהים יודע כמה התגעגעתי&quot;</h4>
+                                            <span>איציק יצחקי 07/05/2020 06:56</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834066">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/678128" alt="עומר בראון צילום( Patrick Smith / Staff)" title="עומר בראון צילום( Patrick Smith / Staff)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834066">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">דיווח בפנמה: עומר בראון עומד להצטרף להפועל תל אביב</span>
+                                            <h4>שחקן ההתקפה יסיים בתום העונה את חוזהו בשורות אינדפנדיינטה הפנמית, יצטרף לאדומים ללא תמורה וינחת בישראל ברגע שהקורונה תאפשר זאת. יעמוד לרשות קלינגר כשהליגה תחזור?</h4>
+                                            <span>מערכת אתר ספורט1 06/05/2020 09:21</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                    <div class="category-article category-article-list-item text-center banner">
+<!-- /21675741918/sport1/desktop/all_regular_ad_units/categories_728x90_2nd -->
+<div id='div-gpt-ad-1517143024878-13' style='height:90px; width:728px;margin: 10px auto;'>
+    <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-13'); });
+    </script>
+</div>
+
+
+                                    </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834042">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/630447" alt="איציק ניסנוב צילום(אודי ציטיאט)" title="איציק ניסנוב צילום(אודי ציטיאט)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834042">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">איציק ניסנוב לספורט1: &quot;ניפגש בראשון, יש לנו את האישורים&quot;</span>
+                                            <h4>בעלי הפועל תל אביב מאמין שהקבוצה תקבל את הכרטיס לאירופה במידה שתזכה בגביע המדינה: &quot;להערכתנו אנחנו נקבל את הרישיון מהוועדה&quot;</h4>
+                                            <span>איציק יצחקי 05/05/2020 15:52</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834041">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/665828" alt="שחקני הפועל תל אביב מאוכזבים צילום(אריאל שלום)" title="שחקני הפועל תל אביב מאוכזבים צילום(אריאל שלום)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-834041">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">גם אם הפועל ת&quot;א תזכה בגביע, השתתפותה באירופה מוטלת בספק</span>
+                                            <h4>ועדת רישוי המועדונים התכנסה והחליטה להעניק רישיון לכל קבוצות ליגת העל להשתתף בתחרויות של אופ&quot;א פרט לנס ציונה ולקבוצתו של ניר קלינגר: &quot;הוועדה משהה את ההחלטה ותתכנס לישיבה נוספת בנוכחות נציגי הקבוצה&quot;</h4>
+                                            <span>מערכת אתר ספורט1 05/05/2020 15:29</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833976">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677904" alt="איאד אבו עביד צילום(הפועל תל אביב)" title="איאד אבו עביד צילום(הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833976">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">למרות הרמדאן: השחקנים המוסלמים של הפועל ת&quot;א מתאמנים</span>
+                                            <h4>האדומים ממשיכים בהכנות בתקווה שהליגה תתחדש. אבו עביד, פרחאת וכנאנה ממשיכים לצום במקביל. עוד מתברר: אם הקבוצה תחזור לשחק ביוני, יתקיים מו&quot;מ חדש לגבי גובה הקיצוץ בשכר</h4>
+                                            <span>איציק יצחקי 04/05/2020 07:12</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/basketball/Winner-Basketball-League/Article-833942">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/667172" alt="תומר גינת צילום(עדי אבישי)" title="תומר גינת צילום(עדי אבישי)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/basketball/Winner-Basketball-League/Article-833942">
+                                                <label>ליגת ווינר סל</label>
+                                            <span class="list-article-item-title">יחצה את הכביש? מכבי תל אביב מנסה לצרף את תומר גינת</span>
+                                            <h4>האלופה הכחישה כי פנתה לקפטן הפועל תל אביב, שיסיים בקיץ את חוזהו ויוכל להגיע ללא תמורה. בדרך לאחת העסקאות הגדולות בתולדות הכדורסל הישראלי?</h4>
+                                            <span>יצחק ויסהוף 03/05/2020 11:34</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                    <div class="category-article category-article-list-item text-center banner">
+<!-- /21675741918/sport1/desktop/all_regular_ad_units/categories_728x90_3rd -->
+<div id='div-gpt-ad-1517143024878-14' style='height:90px; width:728px;margin: 10px auto;'>
+    <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-14'); });
+    </script>
+</div>
+
+
+                                    </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833799">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/658171" alt="סטפן ספירובסקי צילום(דני מרון)" title="סטפן ספירובסקי צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833799">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">דיווח: שתי קבוצות מהונגריה רוצות להחתים את ספירובסקי</span>
+                                            <h4>לפי כלי התקשורת במקדוניה, דיושגיור ובודפשט הונבד (שבמדיה משחק רובי לבקוביץ&#39;) ינסו להחתים את הקשר ששוחרר מהפועל תל אביב לפני כשבועיים</h4>
+                                            <span>מערכת אתר ספורט1 29/04/2020 15:31</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833768">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677982" alt="בית&quot;ר, הפועל צילום(בית&quot;ר ירושלים)" title="בית&quot;ר, הפועל צילום(בית&quot;ר ירושלים)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833768">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">בית&quot;ר שלי, הפועל שלו: הצעיפים באפוד, האהבה היתה משותפת</span>
+                                            <h4>באתר הרשמי של בית&quot;ר ירושלים פורסם טור מרגש של אוהד הקבוצה, שכתב לזכרם של ארז וינון אשכנזי ז&quot;ל: &quot;מותר לשנוא, אבל צריך להציב גבולות&quot;</h4>
+                                            <span>מערכת אתר ספורט1 28/04/2020 11:53</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833762">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677978" alt="גילעד יעקובי ז&quot;ל צילום(הפועל תל אביב)" title="גילעד יעקובי ז&quot;ל צילום(הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833762">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">הפועל ת&quot;א ערכה טקסי זיכרון לנופלים: &quot;לנצח יהיו חלק מאיתנו&quot;</span>
+                                            <h4>שחקני הקבוצה השתתפו בטקסים וירטואליים להנצחת האוהדים שהלכו לעולמם בטרם עת: &quot;אנחנו זוכרים אותם פעם בשנה, את המשפחות זה מלווה בכל דקה שעוברת&quot;, ספד משה סיני</h4>
+                                            <span>מערכת אתר ספורט1 28/04/2020 09:44</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833757">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677975" alt="לריאה קינגסטון צילום(GABRIEL BOUYS/AFP via Getty Images)" title="לריאה קינגסטון צילום(GABRIEL BOUYS/AFP via Getty Images)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833757">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">אקס הפועל ת&quot;א: &quot;אמרו שהסגנון שלי התאים לברצלונה&quot;</span>
+                                            <h4>לריאה קינגסטון, ששיחק בשלוש קבוצות בישראל, סיכם את הקריירה שלו בראיון בגאנה: &quot;בכל קבוצה בה שיחקתי, תמיד הייתי חביב הקהל. מרוצה ומסופק, עשיתי את שלי&quot;</h4>
+                                            <span>מערכת אתר ספורט1 28/04/2020 07:58</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833679">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677933" alt="עומר דמארי כובש בדרבי ב-2014 צילום(עדי אבישי)" title="עומר דמארי כובש בדרבי ב-2014 צילום(עדי אבישי)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833679">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">היום לפני שש שנים: הניצחון האחרון של הפועל ת&quot;א בדרבי</span>
+                                            <h4>מכבי ת&quot;א הייתה זקוקה לניצחון כדי לחגוג אליפות, אך סוזה הותיר את זהבי על הספסל ודמארי, דגני ו-ורמוט הרעידו את בלומפילד עם 0:3 משוגע עד המחצית. טועמה עלה לדרבי האחרון שלו ומאז העיר לא נצבעה שוב באדום</h4>
+                                            <span>מערכת אתר ספורט1 26/04/2020 09:36</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833617">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677902" alt="מודדים חום לעמנואל בואטנג צילום(הפועל תל אביב)" title="מודדים חום לעמנואל בואטנג צילום(הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833617">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">שחקני הפועל ת&quot;א עברו בדיקת חום בכניסה למתחם האימונים</span>
+                                            <h4>האדומים חידשו פעילות והתאמנו בקבוצות של עד עשרה שחקנים, לפני שעלו לכר הדשא נבדקו בזה אחר זה ולא הורשו כלל להיכנס לחדר ההלבשה. משה סיני: &quot;התגעגענו, לראות את כולם על המגרש זה כבר חיובי&quot;</h4>
+                                            <span>מערכת אתר ספורט1 24/04/2020 10:47</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833601">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677116" alt="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)" title="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833601">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">המגמה נמשכת: הפועל ת&quot;א תחזור להתאמן בקבוצות של עד 10 איש</span>
+                                            <h4>בעקבות ההנחיות החדשות של משרד הבריאות, גם האדומים ישובו להתאמן במתכונת קבוצתית. קלינגר: &quot;מקווים שמדובר בצעד ראשון לקראת חזרה לשגרה. מאמינים שבסופו של תהליך נצליח גם לסיים את הליגה והגביע&quot;</h4>
+                                            <span>מערכת אתר ספורט1 23/04/2020 22:57</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833584">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676285" alt="סטפן ספירובסקי צילום(אריאל שלום)" title="סטפן ספירובסקי צילום(אריאל שלום)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833584">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">ספירובסקי: &quot;הכדורגל בישראל - חיים או מוות עבור האוהדים&quot;</span>
+                                            <h4>התקרית עם קלינגר (&quot;איבדתי את הראש&quot;), רמת הליגה (&quot;הרבה מומנטומים&quot;) והמצב הביטחוני (&quot;התרגלנו לזה מהר מאוד&quot;). כשבוע לאחר שעזב את הפועל תל אביב, הקשר מדבר על הכל</h4>
+                                            <span>מערכת אתר ספורט1 23/04/2020 13:14</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833353">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677119" alt="מאור בוזגלו צילום(דוברות הפועל תל אביב)" title="מאור בוזגלו צילום(דוברות הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833353">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">אימונים בזוגות: קבוצות ליגת העל נערכות לקראת חזרה</span>
+                                            <h4>כפי שפורסם בספורט1, משרד הבריאות יאפשר חזרה לפעילות מצומצמת. הלילה: השרה רגב ניסתה לשכנע את ראשי מערכת הבריאות לאפשר לקבוצות הכדורגל להתאמן בקבוצות של עשרה</h4>
+                                            <span>איציק יצחקי 19/04/2020 07:03</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833333">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/601311" alt="דגלאס דה סילבה צילום(דני מרון)" title="דגלאס דה סילבה צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833333">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">דה סילבה צוחק: &quot;גם היום במכבי יפחדו ממני. בחיים לא הייתי עובר לשם&quot;</span>
+                                            <h4>הבלם שרשם תקופה אדירה בהפועל ענה לשאלות האוהדים בפייסבוק ונזכר בדאבל הדרמטי ובהצלחות. וגם: מה הוא חושב על זהבי, ורמוט, גוטמן והעונה הנוכחית של האדומים</h4>
+                                            <span>מערכת אתר ספורט1 18/04/2020 20:45</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/world-football/More-Leagues/Article-833304">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/526163" alt="וינסנט אניימה צילום(צילום: AFP)" title="וינסנט אניימה צילום(צילום: AFP)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/world-football/More-Leagues/Article-833304">
+                                                <label>ליגות נוספות</label>
+                                            <span class="list-article-item-title">אניימה לא חושב על פרישה: &quot;אשמח לשחק בדרום אפריקה&quot;</span>
+                                            <h4>השוער הניגרי, שכיכב לפני כעשור בבני יהודה, בהפועל תל אביב וגם במכבי תל אביב, לא שיחק כדורגל כבר שלוש שנים, אולם אין בכוונתו לתלות את הכפפות אם תגיע ההצעה הנכונה: &quot;יוהנסבורג זה מקום טוב לחיות בו&quot;</h4>
+                                            <span>מערכת אתר ספורט1 17/04/2020 18:11</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833266">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/593901" alt="טוטו תמוז. צפוי לפתוח צילום(צילום: אודי ציטיאט)" title="טוטו תמוז. צפוי לפתוח צילום(צילום: אודי ציטיאט)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833266">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">&quot;אני שומע לחשושים: &#39;טוטו סיים, טוטו פרש&#39;. החלטתי להתפשר ולחזור&quot;</span>
+                                            <h4>&quot;בינואר לא רציתי להתפשר. היום אני מבין: אם לא אחזור, זה נגמר. אני רואה כדורגל בטלוויזיה ואוכל את הלב&quot;. בראיון לספורט1 מביתו ברומניה, תמוז מבטיח: &quot;בקיץ הקרוב אשוב לישראל&quot;</h4>
+                                            <span>איציק יצחקי 17/04/2020 19:02</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833250">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677116" alt="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)" title="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833250">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">בעלי הפועל תל אביב לספורט1: &quot;קבוצות פועלות בניגוד לחוק&quot;</span>
+                                            <h4>בעקבות האבסורד שנוצר לפיו חלק מהקבוצות מתאמנות, זאב גרינברג אמר בשיחה עם ספורט1: &quot;המנהלת סירבה לאפשר לנו להתאמן. יצטרכו לתת לקבוצות 21 יום עד החזרה לליגה&quot;</h4>
+                                            <span>איציק יצחקי 16/04/2020 18:24</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833248">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676285" alt="סטפן ספירובסקי צילום(אריאל שלום)" title="סטפן ספירובסקי צילום(אריאל שלום)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833248">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">ספירובסקי נפרד: &quot;הפועל תל אביב תישאר בלב שלי לתמיד&quot;</span>
+                                            <h4>יממה לאחר שסיים את דרכו במועדון, הקשר אמר שלום באמצעות עמוד האינסטגרם הרשמי שלו: &quot;רוצה להגיד תודה רבה להנהלת הפועל תל אביב, למאמנים, לשחקנים ולקהל על כל הרגעים הטובים שחווינו ביחד&quot;</h4>
+                                            <span>מערכת אתר ספורט1 16/04/2020 18:12</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833204">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/658171" alt="סטפן ספירובסקי צילום(דני מרון)" title="סטפן ספירובסקי צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833204">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">הפועל תל אביב הודיעה: סטפן ספירובסקי שוחרר</span>
+                                            <h4>עכשיו זה רשמי: המועדון האדום בישר כי חוזהו של הקשר הצפון מקדוני הותר לאחר הבנות בין הצדדים: &quot;מבינים את הקושי שלו ושל משפחתו בעיקר בתקופה הזאת&quot;, אמר משה סיני</h4>
+                                            <span>מערכת אתר ספורט1 15/04/2020 18:55</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833125">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/675377" alt="ולדימיר איביץ&#39;, ניר קלינגר צילום(דני מרון)" title="ולדימיר איביץ&#39;, ניר קלינגר צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833125">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">קלינגר: &quot;רציתי להעפיל לפלייאוף העליון כדי לנצח את מכבי ת&quot;א&quot;</span>
+                                            <h4>ההבטחה: (&quot;תהיה לנו קבוצה טובה יותר בעונה הבאה&quot;), המטרות (&quot;להגיע לאירופה ולזכות בגביע&quot;), נבחרת ישראל (&quot;לא רלוונטי&quot;) והחתימה בהפועל ת&quot;א (&quot;כסף לא עניין אותי&quot;). המאמן ענה על שאלות האוהדים</h4>
+                                            <span>מערכת אתר ספורט1 13/04/2020 20:39</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833048">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/670632" alt="פליפה רודריגס צילום(מאור אלקסלסי)" title="פליפה רודריגס צילום(מאור אלקסלסי)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833048">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">פליפה רודריגס: &quot;בימים הראשונים בישראל פחדתי לישון בלילה&quot;</span>
+                                            <h4>הקשר האורוגוואי של הפועל תל אביב מחמיא לממשלת ישראל על התנהלותה בימי מגפת הקורונה, אולם חושף כי תחילת הדרך הייתה קשה: &quot;חתמתי על אחד החוזים הטובים בקריירה, אבל חששתי מאוד&quot;</h4>
+                                            <span>מערכת אתר ספורט1 12/04/2020 07:51</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833042">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677116" alt="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)" title="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833042">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">הפועל ת&quot;א הבהירה: רצינו לערוך אימונים אישיים, אך ההחלטה נדחתה</span>
+                                            <h4>האדומים תכננו לפנות בראשון לרשויות כדי לשוב בהדרגה, במתכונת של אימון פרטני של שעה בחדר כושר או על כר הדשא, אך חזרו בהם: &quot;בעקבות ההבהרות שקיבלנו, הוחלט שהתוכנית תידחה עד להנחיות חדשות ממשרד הבריאות&quot;</h4>
+                                            <span>מערכת אתר ספורט1 11/04/2020 23:23</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833014">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677608" alt="הישראליות באירופה צילום(Gettyimages)" title="הישראליות באירופה צילום(Gettyimages)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-833014">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">כשאירופה הייתה בידינו: הצביעו בסקר - מה היה הקמפיין הכי מרשים של קבוצה ישראלית</span>
+                                            <h4>כבר שנתיים שאין לנו נציגה בשלב הבתים. ובימים האלה של המשבר אין כמו להתרפק על העבר. מכבי חיפה של הצ&#39;מפיונס או הפועל ת&quot;א של רבע גמר גביע אופ&quot;א או השאר?</h4>
+                                            <span>דור רומנו 11/04/2020 17:45</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832927">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/674620" alt="שחקני הפועל תל אביב צילום(דני מרון)" title="שחקני הפועל תל אביב צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832927">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">בהפועל ת&quot;א קיימו הרמת כוסית, קלינגר: &quot;נחזור לשגרה ונעמוד במשימות&quot;</span>
+                                            <h4>השחקנים, הצוות המקצועי וההנהלה השתתפו בשיחת זום. המאמן: &quot;אני נורא מתגעגע, מאחל לכולם חג שמח וכשר&quot;. מאיר תושב פרגן: &quot;יש לנו עונה נהדרת&quot;. ניסנוב: &quot;מודה לכל אנשי המועדון שהלכו לקראתנו בתקופה הקשה&quot;</h4>
+                                            <span>מערכת אתר ספורט1 08/04/2020 13:45</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832885">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/674617" alt="שי אייזן, איאד אבו עביד, עומרי אלטמן צילום(דני מרון)" title="שי אייזן, איאד אבו עביד, עומרי אלטמן צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832885">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">הקיצוץ בשכרו של איאד אבו עביד יהיה פחות משמעותי</span>
+                                            <h4>כפי שפורסם לראשונה בספורט1: לאחר שהתגלתה מחלוקת בנוגע לאחד הסעיפים, הפועל תל אביב הגיעה להבנות גם מול הבלם ובכך סאגת הקיצוץ הגיעה לסיומה באופן רשמי</h4>
+                                            <span>איציק יצחקי 07/04/2020 15:51</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832882">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/673772" alt="ערן זהבי צילום(עדי אבישי)" title="ערן זהבי צילום(עדי אבישי)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832882">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">כשהגלגל התהפך: שבע שנים לשער הבכורה של זהבי בדרבי במדי מכבי ת&quot;א</span>
+                                            <h4>במשחקו הראשון בצהוב נגד האקסית הוא עוד היה על תקן השף עם שני בישולים, ואז כבש שער בלתי נשכח מהאוויר, התגרה בקהל האדום והפך  לסיוט של הפועל תל אביב</h4>
+                                            <span>מערכת אתר ספורט1 07/04/2020 14:48</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832874">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677118" alt="מאור בוזגלו צילום(דוברות הפועל תל אביב)" title="מאור בוזגלו צילום(דוברות הפועל תל אביב)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832874">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">מאור בוזגלו: &quot;אנחנו במלחמה, גם כשנפצעתי לא הרגשתי ככה&quot;</span>
+                                            <h4>קשר הפועל ת&quot;א שיתף את עוקביו ברשתות על התחושות: &quot;עברו 21 ימים מאז שהנחתי את הכדור ואמרתי שלום לחברים. הקושי הגדול ביותר הוא חוסר הוודאות, לא יודעים מתי נחזור&quot;</h4>
+                                            <span>מערכת אתר ספורט1 07/04/2020 11:45</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832843">
+                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/672603" alt="מייקל אולהה צילום(דני מרון)" title="מייקל אולהה צילום(דני מרון)">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-8 category-article-content">
+                                        <a href="/israeli-soccer/Ligat-Haal/Article-832843">
+                                                <label>ליגת העל</label>
+                                            <span class="list-article-item-title">בוויאטנם מתגעגעים לאולהה: &quot;עשה טעות כשהגיע לישראל&quot;</span>
+                                            <h4>באתר baonghean ניתחו את הסטטיסטיקה של חלוץ הפועל תל אביב, במדי סונג לאם ובישראל והגיעו למסקנה שלא היה צריך לעזוב. וגם מה דעתם על אקס הפועל כפ&quot;ס שהגיע כדי להחליף אותו?</h4>
+                                            <span>מערכת אתר ספורט1 06/04/2020 16:46</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="category-article category-article-list-item">
+                                    <div class="col-xs-4 category-article-image">
                                         <a href="/israeli-soccer/Ligat-Haal/Article-832763">
                                             <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677116" alt="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)" title="ניר קלינגר, שחקני הפועל תל אביב צילום(דוברות הפועל תל אביב)">
                                         </a>
@@ -1014,16 +1515,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-15')
                                         </a>
                                     </div>
                                 </div>
-                                    <div class="category-article category-article-list-item text-center banner">
-<!-- /21675741918/sport1/desktop/all_regular_ad_units/categories_728x90_2nd -->
-<div id='div-gpt-ad-1517143024878-13' style='height:90px; width:728px;margin: 10px auto;'>
-    <script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-13'); });
-    </script>
-</div>
-
-
-                                    </div>
                                 <div class="category-article category-article-list-item">
                                     <div class="col-xs-4 category-article-image">
                                         <a href="/israeli-soccer/Ligat-Haal/Article-832698">
@@ -1084,16 +1575,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-13')
                                         </a>
                                     </div>
                                 </div>
-                                    <div class="category-article category-article-list-item text-center banner">
-<!-- /21675741918/sport1/desktop/all_regular_ad_units/categories_728x90_3rd -->
-<div id='div-gpt-ad-1517143024878-14' style='height:90px; width:728px;margin: 10px auto;'>
-    <script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-14'); });
-    </script>
-</div>
-
-
-                                    </div>
                                 <div class="category-article category-article-list-item">
                                     <div class="col-xs-4 category-article-image">
                                         <a href="/israeli-soccer/Ligat-Haal/Article-832593">
@@ -1244,486 +1725,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-14')
                                         </a>
                                     </div>
                                 </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832408">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/668145" alt="איאד אבו עביד, עומרי אלטמן צילום(אריאל שלום)" title="איאד אבו עביד, עומרי אלטמן צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832408">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">מחלוקת בהפועל ת&quot;א: חלק מהשחקנים רוצים לחזור לשולחן המשא ומתן</span>
-                                            <h4>חלקם טוען כי &quot;עדיף לקצץ 50 אחוז, מאשר לצאת לחל&quot;ת&quot;. גורם במועדון : &quot;אם יחזרו, זה יהיה בתנאים שלנו&quot;. הערכה: ההודעה לפירסמן ורודריגס לא תעבור את מבחן פיפ&quot;א</h4>
-                                            <span>איציק יצחקי 26/03/2020 08:34</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832396">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676243" alt="מאור בוזגלו צילום(אריאל שלום)" title="מאור בוזגלו צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832396">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">בוזגלו: &quot;הסכמנו לקצץ, אין גוף שמגן עלינו&quot;. מישאלוף: &quot;יש לנו עניינים רציניים לעסוק בהם&quot;</span>
-                                            <h4>הקשר השיב אש: &quot;היינו מוכנים לוותר על 50%, בלי השחקנים אין כדורגל, אנחנו דואגים גם למה שיהיה כשנחזור לשגרה&quot;. יו&quot;ר ארגון השחקנים התייחס לדבריו. גורם בהפועל: &quot;טעות ענקית&quot;</h4>
-                                            <span>מערכת אתר ספורט1 25/03/2020 19:29</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832390">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/673904" alt="משה חוגג צילום(דני מרון)" title="משה חוגג צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832390">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">חוגג לאחר ההקלטה של בוזגלו: &quot;בלי הגינות מצד השחקנים, הליגה תקרוס&quot;</span>
-                                            <h4>אחרי שקשר הפועל תל אביב הציע להקים ארגון שחקנים ותקף את בעלי הקבוצות, האיש החזק בבית&quot;ר ירושלים פרסם הודעה משלו: &quot;גאה בהתנהלות ובהתנהגות הבוגרת של השחקנים שלנו שמשמשים דוגמה בעת הזו&quot;</h4>
-                                            <span>איציק יצחקי 25/03/2020 15:51</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832389">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/654241" alt="אוראל דגני, מאור בוזגלו צילום(אריאל שלום)" title="אוראל דגני, מאור בוזגלו צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832389">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">הפועל ת&quot;א הוציאה את שחקניה לחל&quot;ת ותקפה אותם: &quot;חוסר הבנה בסיסי של הסיטואציה&quot;</span>
-                                            <h4>האדומים הם המועדון הרביעי בליגה שנוקט בצעדים אלה לאור משבר הקורונה והוציאו הודעה חריפה: &quot;הצענו לשחקנים קיצוץ לשלושה חודשים ונאלצנו לקבל החלטות קשות&quot;</h4>
-                                            <span>איציק יצחקי 25/03/2020 15:28</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832331">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/671738" alt="מאור בוזגלו צילום(אודי ציטיאט)" title="מאור בוזגלו צילום(אודי ציטיאט)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832331">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">מעברי הקבוצות התכופים, הטעות של אשתו והקורונה: בוזגלו עונה לשאלות</span>
-                                            <h4>קשר הפועל ת&quot;א הסביר: &quot;מירן מפחדת מהלא נודע, שינתה את דעתה אחרי אימון אחד&quot;. על החלפת המועדונים: &quot;זה מוכיח עד כמה הכדורגל דינמי ויש דברים שלא תלויים בנו&quot;. וגם: השגרה החדשה והכוחות המנטאליים</h4>
-                                            <span>מערכת אתר ספורט1 24/03/2020 12:00</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832330">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677274" alt="שבתאי יחבס צילום(הפועל תל אביב, רשמי)" title="שבתאי יחבס צילום(הפועל תל אביב, רשמי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832330">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">בגיל 62: כדורגלן העבר שבתאי יחבס הלך לעולמו</span>
-                                            <h4>מי שהיה אחד מכוכבי הפועל ת&quot;א בתחילת שנות השמונים וזכה עמה באליפות ובגביע ולאחר מכן גם העלה את צפרירים חולון לליגה הבכירה, נפטר לאחר מאבק ממושך במחלה</h4>
-                                            <span>מערכת אתר ספורט1 24/03/2020 11:47</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832323">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/585418" alt="עומר דמארי צילום(אסף קליגר)" title="עומר דמארי צילום(אסף קליגר)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832323">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">לכבוד יום הולדתו ה-31: המספרים מהקריירה של עומר דמארי</span>
-                                            <h4>השיאים המיוחדים שהשיג בהפועל תל אביב, מי היריבה שספגה ממנו הכי הרבה, מהו הרקורד בנבחרת ישראל והאירוניה בין מכבי פתח תקווה והקבוצה מחודרוב</h4>
-                                            <span>מערכת אתר ספורט1 24/03/2020 09:05</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832262">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/665648" alt="ואליד באדיר צילום(אדי ישראל)" title="ואליד באדיר צילום(אדי ישראל)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832262">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">אם כל הדרמות: צפו במשחק האליפות של הפועל ת&quot;א ב-2010</span>
-                                            <h4>בלתי נשכח: מכבי חיפה מעדה, ערן זהבי כבש בדקה ה-92 בטדי והאדומים חגגו תואר היסטורי דווקא נגד היריבה המושבעת, בית&quot;ר ירושלים</h4>
-                                            <span>מערכת אתר ספורט1 22/03/2020 16:39</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832162">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677174" alt="אלי ישראלי צילום(&quot;ויקיפדיה&quot;)" title="אלי ישראלי צילום(&quot;ויקיפדיה&quot;)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832162">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">אלי ישראלי הלך לעולמו, בהפועל ת&quot;א נפרדו: &quot;הכרוז המיתולוגי שלנו ואיש אהוב&quot;</span>
-                                            <h4>עצוב: שדר הספורט המיתולוגי, שהקים בין היתר את תוכנית הספורט &quot;צעד וחצי&quot;, הלך לעולמו בגיל 71. האדומים כתבו: &quot;הייתה אוהד גדול והשראה ענקית לכולנו&quot;. סיני: &quot;לימד אותי כיצד להתנהל עם התקשורת בעידן החדש&quot;</h4>
-                                            <span>מערכת אתר ספורט1 19/03/2020 13:24</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/basketball/Winner-Basketball-League/Article-832120">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/667172" alt="תומר גינת צילום(עדי אבישי)" title="תומר גינת צילום(עדי אבישי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/basketball/Winner-Basketball-League/Article-832120">
-                                                <label>ליגת ווינר סל</label>
-                                            <span class="list-article-item-title">שחקני הפועל ת&quot;א וחולון הוצאו לחל&quot;ת: &quot;ימים קשים עבור כולנו&quot;</span>
-                                            <h4>אחרי קבוצת הכדורגל של הפועל חיפה, המשבר במשק הישראלי הגיע גם לקבוצות הכדורסל. &quot;אנו עוסקים באומדן הנזקים ופועלים להבטיח את עתיד המועדון&quot;. ומה לגבי בעלי המנויים?</h4>
-                                            <span>מערכת אתר ספורט1 18/03/2020 12:01</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832081">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677115" alt="עומרי אלטמן צילום(הפועל תל אביב)" title="עומרי אלטמן צילום(הפועל תל אביב)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832081">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">הפועל ת&quot;א הודיעה על הפסקת פעילות עד להודעה חדשה</span>
-                                            <h4>בצל התפשטות נגיף הקורונה וההמלצה של משרד הבריאות להישאר בבית, האדומים הכריזו כי לא יתקיימו אימונים והשחקנים יקבלו מהצוות המקצועי תכנית עבודה מסודרת: &quot;בתקווה שנחזור במהרה לשגרה&quot;</h4>
-                                            <span>מערכת אתר ספורט1 17/03/2020 12:21</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832078">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/674882" alt="ערן זהבי צילום(דני מרון)" title="ערן זהבי צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832078">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">המציאות עלתה על כל דמיון: על הדרבי הגדול בתולדות ת&quot;א</span>
-                                            <h4>היום לפני שש שנים: גם אם ראיתם את המשחק הזה עשרות פעמים - מעולם לא ראיתם אותו ככה. זהבי, קרויף, בן חיים ובדש חוזרים ללילה בו מכבי ניצחה את הפועל 2:3. צפו בסרט</h4>
-                                            <span>מערכת אתר ספורט1 17/03/2020 10:53</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/basketball/Winner-Basketball-League/Article-832049">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/667172" alt="תומר גינת צילום(עדי אבישי)" title="תומר גינת צילום(עדי אבישי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/basketball/Winner-Basketball-League/Article-832049">
-                                                <label>ליגת ווינר סל</label>
-                                            <span class="list-article-item-title">תומר גינת נכנס לבידוד: &quot;צוות הקבוצה עוקב אחר מצבו&quot;</span>
-                                            <h4>הקורונה ממשיכה להכתיב את סדר היום בספורט הישראלי. קפטן הפועל תל אביב נכנס להסגר עד ה-22.03 לאחר שבא במגע עם חולה מאומת</h4>
-                                            <span>תומר חבז 16/03/2020 14:49</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832034">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/650224" alt="רז שלמה צילום(עדי אבישי)" title="רז שלמה צילום(עדי אבישי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-832034">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">בהפועל ת&quot;א רוצים להחתים את רז שלמה על חוזה ארוך טווח</span>
-                                            <h4>בלם נבחרת ישראל חתום עד קיץ 2021 והאדומים ינסו לנצל את הפגרה הכפויה כדי להבטיח את הישארותו בשנים הבאות. בקרוב תתקבל החלטה גם לגבי עתידם של דמארי, לקס ופירסמן</h4>
-                                            <span>אשר גולדברג 16/03/2020 09:41</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Israelis-Abroad/Article-832025">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/641861" alt="רובי לבקוביץ&#39; צילום(מאור אלקסלסי)" title="רובי לבקוביץ&#39; צילום(מאור אלקסלסי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Israelis-Abroad/Article-832025">
-                                                <label>לגיונרים</label>
-                                            <span class="list-article-item-title">רובי לבקוביץ&#39; בראיון: &quot;ניסו אביטן לא רצה אותי ובזכותו התקדמתי למועדון גדול יותר&quot;</span>
-                                            <h4>אחרי שלקח החלטה לעזוב להונגריה, השוער מדבר על החיים בצל הקורונה והמחשבות על העתיד: &quot;הפועל ת&quot;א זה מועדון גדול בישראל, אבל הונבד שם דבר באירופה&quot;</h4>
-                                            <span>איציק יצחקי 16/03/2020 12:01</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831990">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676285" alt="סטפן ספירובסקי צילום(אריאל שלום)" title="סטפן ספירובסקי צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831990">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">כפי שפורסם בספורט1: סטפן ספירובסקי יטוס למקדוניה</span>
-                                            <h4>ראשי הפועל תל אביב אישרו לקשר נבחרת מקדוניה הצפונית להמריא לארצו ולהצטרף לסגל בהנחה שייערך משחק פלייאוף היורו נגד קוסובו ובנוסף כדי שיהיה לצד אשתו העומדת ללדת</h4>
-                                            <span>אשר גולדברג 15/03/2020 11:59</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831972">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/630447" alt="איציק ניסנוב צילום(אודי ציטיאט)" title="איציק ניסנוב צילום(אודי ציטיאט)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831972">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">איציק ניסנוב: &quot;לצאת עכשיו לפגרה ולחדש את העונה בחודש יוני&quot;</span>
-                                            <h4>בעלי הפועל ת&quot;א בראיון לספורט1 מציע פתרון להמשך ליגת העל, שהושבתה עקב הקורונה: &quot;ביוני נתחיל עונה עם הפלייאוף וחצאי גמר הגביע&quot;. וגם: האימונים ייערכו בקבוצות נפרדות</h4>
-                                            <span>אשר גולדברג 15/03/2020 06:09</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831969">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677010" alt="שחקני מכבי חיפה צילום(מכבי חיפה, האתר הרשמי)" title="שחקני מכבי חיפה צילום(מכבי חיפה, האתר הרשמי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831969">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">האיסור לרכז מעל 10 איש הביא לביטול אימוני קבוצות ליגת העל</span>
-                                            <h4>תחילה אישר משרד הבריאות לקבוצות להתאמן כרגיל, ללא מגע פיזי. אך ההחלטה החדשה, לא תאפשר לקיים אימונים סדירים. רק הפועל רעננה קבעה ליום ראשון אימון מפוצל</h4>
-                                            <span>מערכת אתר ספורט1 14/03/2020 23:29</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831960">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/677000" alt="חידון ליגת העל צילום(מערכת ספורט1)" title="חידון ליגת העל צילום(מערכת ספורט1)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831960">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">בחנו את עצמכם: ענו על חידון עונת 2019/20 בליגת העל</span>
-                                            <h4>בזמן שכל המשחקים בפלייאוף העליון והתחתון נדחו בשל משבר הקורונה, בינתיים אתם יכולים לבדוק עד כמה אתם זוכרים את עונת המשחקים הסדירה</h4>
-                                            <span>מערכת אתר ספורט1 14/03/2020 17:28</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831949">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/669604" alt="סטפן ספירובסקי צילום(דני מרון)" title="סטפן ספירובסקי צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831949">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">אימון הפועל ת&quot;א בוטל, ספירובסקי יבקש לטוס אם פלייאוף היורו יתקיים</span>
-                                            <h4>למרות שבמועדון תכננו להמשיך בשגרה כרגיל, התכניות השתנו בעקבות הנחיות משרד הבריאות. הקשר מעוניין לייצג את נבחרת צפון מקדוניה בהנהחה שהמפגש נגד קוסובו ייערך כמתכונן</h4>
-                                            <span>אשר גולדברג 14/03/2020 12:34</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831924">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/675382" alt="אוהדי הפועל תל אביב צילום(דני מרון)" title="אוהדי הפועל תל אביב צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831924">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">חולה קורונה ישב בשער 5 בבלומפילד במשחק בין הפועל ת&quot;א להפועל רעננה</span>
-                                            <h4>משרד הבריאות פרסם כי הנדבק ה-120 בישראל נכח במשחק הגביע בו האדומים ניצחו 1:2, בחלק העליון של גוש 316. כלל השוהים בקרבתו התבקשו להתבודד מיידית. אוהד הקבוצה: &quot;כל עוד לא מפספסים משחק, אין בעיה&quot;</h4>
-                                            <span>רענן ברנובסקי 13/03/2020 15:53</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831854">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/666188" alt="סטפן ספירובסקי צילום(אריאל שלום)" title="סטפן ספירובסקי צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831854">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">הפועל ת&quot;א מחכה להחלטה: ספירובסקי יטוס למקדוניה הצפונית?</span>
-                                            <h4>הקשר ממתין שההתאחדות בארצו תודיע לו האם עליו להצטרף לנבחרת לקראת פלייאוף העליה ליורו, חבריו למדים הלאומיים בדרך לבידוד והמשחק נגד קוסובו עלול להידחות. האדומים ינסו להכשיר את דמארי וגרופר למכבי חיפה</h4>
-                                            <span>אשר גולדברג 12/03/2020 10:16</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/National-Cup/Article-831823">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676437" alt="גיא לוזון צילום(דני מרון)" title="גיא לוזון צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/National-Cup/Article-831823">
-                                                <label>גביע המדינה</label>
-                                            <span class="list-article-item-title">&quot;גיא לוזון לא צריך אקסית בשביל להגיע בטירוף, זה טבעי אצלו&quot;</span>
-                                            <h4>עומר גולן דיבר לקראת המפגש של מאמן מכבי פ&quot;ת בחצי גמר הגביע (&quot;הוא מוטרף טבעי&quot;), בהפועל ת&quot;א חוששים מהשפעת הקורונה: &quot;אין כדורגל בלי קהל&quot;. וגם: רחמים ואדרי לקראת המפגש הפיקנטי בין ב&quot;ש ואבוקסיס לבני יהודה</h4>
-                                            <span>אשר גולדברג 11/03/2020 16:49</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831821">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/649728" alt="גביע המדינה צילום(מאור אלקסלסי)" title="גביע המדינה צילום(מאור אלקסלסי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831821">
-                                                <label>גביע המדינה</label>
-                                            <span class="list-article-item-title">חצי גמר גביע המדינה: הפועל ב&quot;ש נגד בני יהודה, הפועל ת&quot;א נגד מכבי פ&quot;ת</span>
-                                            <h4>יוסי אבוקסיס יפגוש את קבוצתו לשעבר, עימה זכה אשתקד בתואר ואילו גיא לוזון ישחק נגד האקסית מולה נשר ללאומית עם המלאבסים. המשחקים צפויים להיערך בין ה-12 ל-14 במאי</h4>
-                                            <span>מערכת אתר ספורט1 11/03/2020 16:05</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831819">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/612221" alt="אלי טביב צילום(אבשלום ששוני)" title="אלי טביב צילום(אבשלום ששוני)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831819">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">אלי טביב בראיון: &quot;בבית&quot;ר ירושלים בונים מועדון? אני לא קונה את זה&quot;</span>
-                                            <h4>הבעלים לשעבר התראיין ב-103FM והעביר ביקורת: &quot;חוגג השקיע 80 מיליון שקל ולא הגיע לכלום, אבל אומרים שהוא בסדר. אני הצלחתי וקראו לי קמצן&quot;. וגם: האם היה מפטר את רוני לוי ומדוע לי ישוב לכדורגל הישראלי?</h4>
-                                            <span>מערכת אתר ספורט1 11/03/2020 15:50</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/National-Cup/Article-831812">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676238" alt="יעקב בוזגלו צילום(אריאל שלום)" title="יעקב בוזגלו צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/National-Cup/Article-831812">
-                                                <label>גביע המדינה</label>
-                                            <span class="list-article-item-title">יעקב בוזגלו: &quot;כולם נגד מאור כי הוא עבר בכל הקבוצות הגדולות&quot;</span>
-                                            <h4>אביו של קשר הפועל תל אביב התראיין ל-103FM והסביר את היחס לבנו: &quot;הבעיה לא בקהלים, אלא בעם שלנו&quot;. על סיכויי האדומים לזכות בגביע: &quot;פייבוריטים מבחינה היסטורית&quot;. וגם: הסכסוך עם ב&quot;ש והיחסים עם ברק בכר</h4>
-                                            <span>מערכת אתר ספורט1 11/03/2020 13:58</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831784">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/674612" alt="אוהדי בית&quot;ר ירושלים צילום(דני מרון)" title="אוהדי בית&quot;ר ירושלים צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831784">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">ההחלטה התקבלה: בית&quot;ר ירושלים תארח את הפועל באר שבע ללא קהל</span>
-                                            <h4>אחרי שמשרד הבריאות הגביל אירועי ספורט ל-2,000 צופים לכל היותר, הקבוצות הגדולות שוקלות את צעדיהן. סבוריט צייץ: &quot;לא לכדורגל בלי אוהדים&quot;, יואב כץ: &quot;קמתי הבוקר בארה&quot;ב ואני חולה, אנשים כאן לא בפאניקה&quot;</h4>
-                                            <span>איציק יצחקי,מיכאל וייסרמן,רענן ברנובסקי 10/03/2020 19:51</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831713">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676235" alt="אוהדי הפועל תל אביב צילום(אריאל שלום)" title="אוהדי הפועל תל אביב צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831713">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">לחץ בהפועל ת&quot;א, שעלולה לאבד הכנסות בגובה שלושה מיליון ש&quot;ח</span>
-                                            <h4>במתחם חודורוב נלחצו לאחר ההנחיה החדשה של משרד הבריאות, שהורה לקיים את משחק הגביע בין מכבי חיפה להפועל באר שבע ללא קהל, אך שאבו עידוד מכך שמשחק הבית הקרוב שלהם ייערך רק בחודש אפריל</h4>
-                                            <span>אשר גולדברג 09/03/2020 11:11</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831649">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676576" alt="רימון עשן צהוב ביציע אוהדי הפועל ת&quot;א צילום(דני מרון)" title="רימון עשן צהוב ביציע אוהדי הפועל ת&quot;א צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831649">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">כתב אישום נגד צעיר שהדליק רימון עשן צהוב ביציע של הפועל ת&quot;א</span>
-                                            <h4>צעיר בן 18, שהיה קטין בעת המעשה במארס 2019, מואשם בהכנסת הרימון במשחקם של האדומים נגד בית&quot;ר ירושלים בטדי. כמה כסף שילמו לו עבור המעשה? כל הפרטים בפנים</h4>
-                                            <span>מערכת אתר ספורט1 08/03/2020 12:22</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831594">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/663593" alt="משה סיני, שרון ניסנוב צילום(מאור אלקסלסי)" title="משה סיני, שרון ניסנוב צילום(מאור אלקסלסי)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831594">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">חולה הקורונה ששב מספרד ישב בבית הקפה של בתו של משה סיני</span>
-                                            <h4>נציג הבעלים של הפועל ת&quot;א צריך לשהות בבידוד? החולה שחזר ממדריד הגיע לבית הקפה &#39;לורן&#39; ברמת השרון, בו מבקר סיני כמעט בכל יום. במועדון מעריכים: הגבלת הקהל תגרום להפסד של כ-3.5 מיליון שקלים</h4>
-                                            <span>אשר גולדברג 07/03/2020 10:51</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/basketball/Winner-Basketball-League/Article-831564">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/674074" alt="דני פרנקו צילום(דני מרון)" title="דני פרנקו צילום(דני מרון)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/basketball/Winner-Basketball-League/Article-831564">
-                                                <label>ליגת ווינר סל</label>
-                                            <span class="list-article-item-title">הפועל ת&quot;א תקיים טקס לכבוד פרנקו, משעור צפוי לערוך בכורה</span>
-                                            <h4>האדומים יארחו מחר (שבת ב-21:00) את עירוני נהריה ויגידו תודה למאמנם לשעבר. הרכש החדש צפוי לקבל דקות ראשונות. במשחק נוסף, מכבי חיפה תפגוש את הפועל אילת (18:30)</h4>
-                                            <span>מערכת אתר ספורט1 06/03/2020 13:27</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="category-article category-article-list-item">
-                                    <div class="col-xs-4 category-article-image">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831483">
-                                            <img src="https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_142,w_230/676291" alt="הפועל תל אביב צילום(אריאל שלום)" title="הפועל תל אביב צילום(אריאל שלום)">
-                                        </a>
-                                    </div>
-                                    <div class="col-xs-8 category-article-content">
-                                        <a href="/israeli-soccer/Ligat-Haal/Article-831483">
-                                                <label>ליגת העל</label>
-                                            <span class="list-article-item-title">הפועל ת&quot;א חיה את החלום: &quot;זכייה בגביע תהיה שווה לאליפות&quot;</span>
-                                            <h4>אחרי ההעפלה לפלייאוף העליון, האדומים עלו לחצי הגמר וחולמים בגדול. קלינגר: &quot;רוצה תואר&quot;, ברשצקי: &quot;אין חגיגות כי עוד לא זכינו בושם דבר&quot;. תקרית דמארי תיבדק</h4>
-                                            <span>אשר גולדברג 05/03/2020 06:45</span>
-                                        </a>
-                                    </div>
-                                </div>
                         </div>
                     </div>
                         <div class="category-article-more">
@@ -1748,7 +1749,49 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-14')
                     </div>
                     <div class="row sidebar-videos-content">
                             <div class="col-xs-6">
-                                <a href="https://sport1.maariv.co.il/israeli-soccer/Ligat-Haal/Article-832763" target="_blank">
+                                <a href="https://sport1.maariv.co.il/israeli-soccer/Ligat-Haal/Article-833799" target="_blank">
+                                    <div class="sidebar-videos-content-image">
+                                        <img src="https://besttv8.cdn.it.best-tv.com/charlton/media/1521649299001/202001/641/1521649299001_6124786474001_6124781982001-vs.jpg?pubId=1521649299001">
+                                        <img src="/images/article-shadow.png" class="video-shadow">
+                                        <img src="/images/play_bold.svg" class="play-button">
+                                    </div>
+                                    <div class="sidebar-videos-content-inner">
+                                        <div class="sidebar-videos-content-inner-title">
+                                            דיווח: שתי קבוצות מהונגריה רוצות להחתים את ספירובסקי
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://sport1.maariv.co.il/world-football/Europa-League/Article-833795" target="_blank">
+                                    <div class="sidebar-videos-content-image">
+                                        <img src="https://besttv8.cdn.it.best-tv.com/charlton/media/1521649299001/202004/2175/1521649299001_6152817412001_6152816523001-vs.jpg?pubId=1521649299001">
+                                        <img src="/images/article-shadow.png" class="video-shadow">
+                                        <img src="/images/play_bold.svg" class="play-button">
+                                    </div>
+                                    <div class="sidebar-videos-content-inner">
+                                        <div class="sidebar-videos-content-inner-title">
+                                            לתפארת מדינת ישראל: צפו בקמפיין האירופי של הפועל ת&quot;א ב-2009/10
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://sport1.maariv.co.il/israeli-soccer/Ligat-Haal/Article-833762" target="_blank">
+                                    <div class="sidebar-videos-content-image">
+                                        <img src="https://besttv8.cdn.it.best-tv.com/charlton/media/1521649299001/202004/1185/1521649299001_6152512188001_6152513495001-vs.jpg?pubId=1521649299001">
+                                        <img src="/images/article-shadow.png" class="video-shadow">
+                                        <img src="/images/play_bold.svg" class="play-button">
+                                    </div>
+                                    <div class="sidebar-videos-content-inner">
+                                        <div class="sidebar-videos-content-inner-title">
+                                            הפועל ת&quot;א ערכה טקסי זיכרון לנופלים: &quot;לנצח יהיו חלק מאיתנו&quot;
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://sport1.maariv.co.il/israeli-soccer/Ligat-Haal/Article-833333" target="_blank">
                                     <div class="sidebar-videos-content-image">
                                         <img src="https://besttv8.cdn.it.best-tv.com/charlton/media/1521649299001/202002/3987/1521649299001_6137269259001_6137265200001-vs.jpg?pubId=1521649299001">
                                         <img src="/images/article-shadow.png" class="video-shadow">
@@ -1756,49 +1799,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-14')
                                     </div>
                                     <div class="sidebar-videos-content-inner">
                                         <div class="sidebar-videos-content-inner-title">
-                                            בצל הקורונה: שחקני הפועל ת&quot;א התבקשו לצלם בוואטסאפ מדדי אימון
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xs-6">
-                                <a href="https://sport1.maariv.co.il/israeli-soccer/Israelis-Abroad/Article-832758" target="_blank">
-                                    <div class="sidebar-videos-content-image">
-                                        <img src="https://besttv8.cdn.it.best-tv.com/charlton/media/1521649299001/201911/500/1521649299001_6106294232001_6106295859001-vs.jpg?pubId=1521649299001">
-                                        <img src="/images/article-shadow.png" class="video-shadow">
-                                        <img src="/images/play_bold.svg" class="play-button">
-                                    </div>
-                                    <div class="sidebar-videos-content-inner">
-                                        <div class="sidebar-videos-content-inner-title">
-                                            נאתכו: &quot;אופטימי לגבי היורו. מה נשאר לי בקריירה? ליהנות מכדורגל&quot;
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xs-6">
-                                <a href="https://sport1.maariv.co.il/israeli-soccer/Ligat-Haal/Article-832698" target="_blank">
-                                    <div class="sidebar-videos-content-image">
-                                        <img src="https://besttv8.cdn.it.best-tv.com/charlton/media/1521649299001/202002/3987/1521649299001_6137269259001_6137265200001-vs.jpg?pubId=1521649299001">
-                                        <img src="/images/article-shadow.png" class="video-shadow">
-                                        <img src="/images/play_bold.svg" class="play-button">
-                                    </div>
-                                    <div class="sidebar-videos-content-inner">
-                                        <div class="sidebar-videos-content-inner-title">
-                                            בוזגלו: &quot;מהרגע הראשון רצינו לעזור לקבוצה, רק ביקשנו לדעת את ההשלכות&quot;
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xs-6">
-                                <a href="https://sport1.maariv.co.il/israeli-soccer/Article-832638" target="_blank">
-                                    <div class="sidebar-videos-content-image">
-                                        <img src="https://besttv8.cdn.it.best-tv.com/charlton/media/1521649299001/202003/875/1521649299001_6145719032001_6145716904001-vs.jpg?pubId=1521649299001">
-                                        <img src="/images/article-shadow.png" class="video-shadow">
-                                        <img src="/images/play_bold.svg" class="play-button">
-                                    </div>
-                                    <div class="sidebar-videos-content-inner">
-                                        <div class="sidebar-videos-content-inner-title">
-                                            מאור בוזגלו הקפיא את הרעיון להקים ארגון שחקנים מתחרה
+                                            דה סילבה צוחק: &quot;גם היום במכבי יפחדו ממני. בחיים לא הייתי עובר לשם&quot;
                                         </div>
                                     </div>
                                 </a>
@@ -1840,6 +1841,25 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-9');
                         <div class="col-xs-12">
                                     <div class="row sidebar-games-item">
                                         <div class="col-xs-4 text-right _365">
+                                            <a class="link-team-name" href="/Statistics/Team/566">
+                                                <div class="team_name_div">מכבי תל אביב</div>
+                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/566.png?ver=1">
+                                            </a>
+                                        </div>
+                                        <div class="col-xs-4 text-center sidebar-games-item-score">
+                                            <span class="score-label-365">-1:-1</span>
+                                        </div>
+                                        <div class="col-xs-4 text-left _365">
+                                            <a class="link-team-name" href="/Statistics/Team/567">
+                                                <div class="team_name_div">הפועל תל אביב</div>
+                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/567.png?ver=1">
+                                            </a>
+                                        </div>
+                                        <span class="game-date-365">02-05-2020 19:00</span>
+                                            <span class="game-stadium-365">איצטדיון - בלומפילד</span>
+                                    </div>
+                                    <div class="row sidebar-games-item">
+                                        <div class="col-xs-4 text-right _365">
                                             <a class="link-team-name" href="/Statistics/Team/567">
                                                 <div class="team_name_div">הפועל תל אביב</div>
                                                 <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/567.png?ver=1">
@@ -1849,32 +1869,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-9');
                                             <span class="score-label-365">-1:-1</span>
                                         </div>
                                         <div class="col-xs-4 text-left _365">
-                                            <a class="link-team-name" href="/Statistics/Team/559">
-                                                <div class="team_name_div">בית&quot;ר ירושלים</div>
-                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/559.png?ver=1">
-                                            </a>
-                                        </div>
-                                        <span class="game-date-365">04-04-2020 17:00</span>
-                                            <span class="game-stadium-365">איצטדיון - בלומפילד</span>
-                                    </div>
-                                    <div class="row sidebar-games-item">
-                                        <div class="col-xs-4 text-right _365">
                                             <a class="link-team-name" href="/Statistics/Team/562">
                                                 <div class="team_name_div">מכבי חיפה</div>
                                                 <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/562.png?ver=1">
                                             </a>
                                         </div>
-                                        <div class="col-xs-4 text-center sidebar-games-item-score">
-                                            <span class="score-label-365">-1:-1</span>
-                                        </div>
-                                        <div class="col-xs-4 text-left _365">
-                                            <a class="link-team-name" href="/Statistics/Team/567">
-                                                <div class="team_name_div">הפועל תל אביב</div>
-                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/567.png?ver=1">
-                                            </a>
-                                        </div>
-                                        <span class="game-date-365">16-03-2020 20:30</span>
-                                            <span class="game-stadium-365">איצטדיון - חיפה איצטדיון סמי עופר</span>
+                                        <span class="game-date-365">25-04-2020 19:00</span>
+                                            <span class="game-stadium-365">איצטדיון - בלומפילד</span>
                                     </div>
 
                         </div>
@@ -1908,34 +1909,35 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-9');
                                             <span class="score-label-365">-:-</span>
                                         </div>
                                         <div class="col-xs-4 text-left _365">
-                                            <a class="link-team-name" href="/Statistics/Team/566">
-                                                <div class="team_name_div">מכבי תל אביב</div>
-                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/566.png?ver=1">
+                                            <a class="link-team-name" href="/Statistics/Team/579">
+                                                <div class="team_name_div">הפועל באר שבע</div>
+                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/579.png?ver=1">
                                             </a>
                                         </div>
-                                        <span class="game-date-365">18-04-2020 15:00</span>
-                                    </div>
-                                    <div class="row sidebar-games-item">
-                                        <div class="col-xs-4 text-right _365">
-                                            <a class="link-team-name" href="/Statistics/Team/567">
-                                                <div class="team_name_div">הפועל תל אביב</div>
-                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/567.png?ver=1">
-                                            </a>
-                                        </div>
-                                        <div class="col-xs-4 text-center sidebar-games-item-score">
-                                            <span class="score-label-365">-:-</span>
-                                        </div>
-                                        <div class="col-xs-4 text-left _365">
-                                            <a class="link-team-name" href="/Statistics/Team/566">
-                                                <div class="team_name_div">מכבי תל אביב</div>
-                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/566.png?ver=1">
-                                            </a>
-                                        </div>
-                                        <span class="game-date-365">22-04-2020 17:00</span>
+                                        <span class="game-date-365">09-05-2020 19:00</span>
                                             <span class="game-stadium-365">איצטדיון - בלומפילד</span>
                                     </div>
                                     <div class="row sidebar-games-item">
                                         <div class="col-xs-4 text-right _365">
+                                            <a class="link-team-name" href="/Statistics/Team/559">
+                                                <div class="team_name_div">בית&quot;ר ירושלים</div>
+                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/559.png?ver=1">
+                                            </a>
+                                        </div>
+                                        <div class="col-xs-4 text-center sidebar-games-item-score">
+                                            <span class="score-label-365">-:-</span>
+                                        </div>
+                                        <div class="col-xs-4 text-left _365">
+                                            <a class="link-team-name" href="/Statistics/Team/567">
+                                                <div class="team_name_div">הפועל תל אביב</div>
+                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/567.png?ver=1">
+                                            </a>
+                                        </div>
+                                        <span class="game-date-365">16-05-2020 19:00</span>
+                                            <span class="game-stadium-365">איצטדיון - טדי</span>
+                                    </div>
+                                    <div class="row sidebar-games-item">
+                                        <div class="col-xs-4 text-right _365">
                                             <a class="link-team-name" href="/Statistics/Team/567">
                                                 <div class="team_name_div">הפועל תל אביב</div>
                                                 <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/567.png?ver=1">
@@ -1945,12 +1947,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-9');
                                             <span class="score-label-365">-:-</span>
                                         </div>
                                         <div class="col-xs-4 text-left _365">
-                                            <a class="link-team-name" href="/Statistics/Team/562">
-                                                <div class="team_name_div">מכבי חיפה</div>
-                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/562.png?ver=1">
+                                            <a class="link-team-name" href="/Statistics/Team/575">
+                                                <div class="team_name_div">הפועל חיפה</div>
+                                                <img class="img-365" src="https://sport1.maariv.co.il/_365images/Competitors/575.png?ver=1">
                                             </a>
                                         </div>
-                                        <span class="game-date-365">25-04-2020 19:00</span>
+                                        <span class="game-date-365">23-05-2020 19:00</span>
                                             <span class="game-stadium-365">איצטדיון - בלומפילד</span>
                                     </div>
 
@@ -2049,7 +2051,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517143024878-10')
                                         <div class="player-team-logo">
                                             <img class="scores-team-logo" src="https://sport1.maariv.co.il/_365images/Competitors/567.png?ver=1">
                                         </div>
-                                        <span class="span-scores">סטפאן ספירובסקי</span>
+                                        <span class="span-scores">איאד אבו-עביד</span>
                                     </div>
                                 </div>
 

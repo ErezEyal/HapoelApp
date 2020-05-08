@@ -10,7 +10,7 @@ class Articles
 {
 
     private const SITES = array(
-        "sport5" => "https://www.sport5.co.il/team.aspx?FolderID=164&lang=he",
+        "sport5" => "https://www.sport5.co.il/team.aspx?FolderID=164",
         "one" => "https://www.one.co.il/Soccer/team/5",
         "sport1" => "https://sport1.maariv.co.il/Statistics/Team/567",
         "walla" => "https://sports.walla.co.il/team/738?league=157",
@@ -265,7 +265,7 @@ class Articles
         foreach ($links as $link) {
             $article = html_entity_decode($link->getAttribute('href'));
             if (strpos($link->outerHtml, 'articles/') !== false & !in_array("https://www.ynet.co.il" . $article, array_column($articles, 'url'))) {
-                $date = rtrim(explode(" ", $dates[$i]->innerHtml)[3], ",)") . " " . rtrim(explode(" ", $dates[$i]->innerHtml)[5], ",)");
+                $date = rtrim(explode(" ", ltrim($dates[$i]->innerHtml))[3], ",)") . " " . rtrim(explode(" ", ltrim($dates[$i]->innerHtml))[5], ",)");
                 $date = \DateTime::createFromFormat('d.m.y H:i P', $date . " +0300")->format('U');
                 $articles[] = [
                     'url' => "https://www.ynet.co.il" . $article,

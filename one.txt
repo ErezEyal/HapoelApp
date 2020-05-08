@@ -973,12 +973,12 @@
 
 
 
-    <link type="text/css" href="/Style/20200319102328/V3_CSS_ONE/" rel="Stylesheet" media="screen"/>
+    <link type="text/css" href="/Style/20200503095210/V3_CSS_ONE/" rel="Stylesheet" media="screen"/>
     
-    <script type="text/javascript" src="/Script/20200319102328/V3_JS_Frameworks/"></script>
+    <script type="text/javascript" src="/Script/20200503095210/V3_JS_Frameworks/"></script>
     <script type="text/javascript" language="javascript">$j = jQuery.noConflict();</script>
 
-    <script type="text/javascript" src="/Script/20200319102328/V3_JS_ONE/"></script>
+    <script type="text/javascript" src="/Script/20200503095210/V3_JS_ONE/"></script>
 
     
     
@@ -1026,7 +1026,7 @@
     <!-- WEB- Start of eXelate Tag for one.co.il -->
     <script type="text/javascript">
         window.idx = {
-            'log_timestamp': '2020-04-04 09:51:04',
+            'log_timestamp': '2020-05-08 11:10:38',
             'true_url': 'https://www.one.co.il/'
         }
     </script>
@@ -1058,32 +1058,30 @@
             $j(document).ready(function () {
             googletag.cmd.push(function () {
                 
-                slot_Premium = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Premium', [[1, 1], [728, 90], [728, 170], [728, 171], [775, 250], [785, 170], [785, 171], [770, 250], [775, 251], [970,90], [970, 250], [970, 550], [990, 250]], 'adxONEPremium').setTargeting('Format',['Premium']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Jumbo = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Jumbo', [[1, 1], [728, 90], [728, 170], [728, 171], [970, 90], [970, 250], [970, 330], [970, 350], [970, 546], [970, 550], [990, 250]], 'adxONEJumbo').setTargeting('Format',['Jumbo']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Jumbo_Top = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Jumbo_Top', [[1, 1], [970, 90]], 'adxONEJumbo_Top').setTargeting('Format',['Jumbo_Top']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Tower_Left = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Tower_Left', ( $j(document).width() > 1395 ? [[1, 1], [160, 600], [300, 600]] : [[1, 1], [160,600]]), 'adxONETower_Left').setTargeting('Format',['Tower_Left']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Bomba_Bottom_1 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Bomba_Bottom_1', [[1, 1], [728, 170], [970, 90], [970,250]], 'adxONEBomba_Bottom_1').setTargeting('Format',['Bomba_Bottom_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Bomba_Bottom_2 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Bomba_Bottom_2', [[1, 1], [728, 170], [970, 90], [970,250]], 'adxONEBomba_Bottom_2').setTargeting('Format',['Bomba_Bottom_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Jumbo_Footer = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Jumbo_Footer', [[1, 1], [728, 90], [728, 170], [775, 250], [770, 250], [970, 90], [970, 250]], 'adxONEJumbo_Footer').setTargeting('Format',['Jumbo_Footer']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_1 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_1', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_1').setTargeting('Format',['Big_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_2 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_2', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_2').setTargeting('Format',['Big_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_3 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_3', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_3').setTargeting('Format',['Big_3']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_4 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_4', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_4').setTargeting('Format',['Big_4']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_2_New = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_2_New', [[1, 1], [300, 250]], 'adxONEBig_2_New').setTargeting('Format',['Big_2_New']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_3_New = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_3_New', [[1, 1], [300, 250]], 'adxONEBig_3_New').setTargeting('Format',['Big_3_New']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Half_Page = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Half_Page', [[1, 1], [300, 600]], 'adxONEHalf_Page').setTargeting('Format',['Half_Page']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Half_Page_Bottom = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Half_Page_Bottom', [[1, 1], [300, 600]], 'adxONEHalf_Page_Bottom').setTargeting('Format',['Half_Page_Bottom']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_Articles = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_Articles', [[1, 1], [300, 250]], 'adxONEBig_Articles').setTargeting('Format',['Big_Articles']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_Sponsors_1 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_Sponsors_1', [[1, 1], [300, 250]], 'adxONEBig_Sponsors_1').setTargeting('Format',['Big_Sponsors_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Big_Sponsors_2 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Big_Sponsors_2', [[1, 1], [300, 250]], 'adxONEBig_Sponsors_2').setTargeting('Format',['Big_Sponsors_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Strip_1 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Strip_1', [[1, 1], [468, 60]], 'adxONEStrip_1').setTargeting('Format',['Strip_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Strip_2 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Strip_2', [[1, 1], [468, 60]], 'adxONEStrip_2').setTargeting('Format',['Strip_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Strip_3 = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Strip_3', [[1, 1], [468, 60]], 'adxONEStrip_3').setTargeting('Format',['Strip_3']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Element_Winner = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Element_Winner', [[1, 1], [330, 114]], 'adxONEElement_Winner').setTargeting('Format',['Element_Winner']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Transition = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Transition', [1, 1], 'adxONETransition').setTargeting('Format',['Transition']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-googletag.defineOutOfPageSlot('/67234617/ONE/ISRAEL_SOCCER/PopUnder', 'adxONEPopUnder').setTargeting('Format',['PopUnder']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Logo_Sponsors_Header = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Logo_Sponsors_Header', [[1, 1], [130, 50]], 'adxONELogo_Sponsors_Header').setTargeting('Format',['Logo_Sponsors_Header']).setCollapseEmptyDiv(true).addService(googletag.pubads());
-slot_Ad_Article_League = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Ad_Article_League', [[1, 1], [430, 78]], 'adxONEAd_Article_League').setTargeting('Format',['Ad_Article_League']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+                slot_Jumbo = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Jumbo', [[1, 1], [728, 90], [728, 170], [728, 171], [970, 90], [970, 250], [970, 330], [970, 350], [970, 546], [970, 550], [990, 250]], 'adxONEJumbo').setTargeting('Format',['Jumbo']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Tower_Left = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Tower_Left', ( $j(document).width() > 1395 ? [[1, 1], [160, 600], [300, 600]] : [[1, 1], [160,600]]), 'adxONETower_Left').setTargeting('Format',['Tower_Left']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Bomba_Bottom_1 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Bomba_Bottom_1', [[1, 1], [728, 170], [970, 90], [970,250]], 'adxONEBomba_Bottom_1').setTargeting('Format',['Bomba_Bottom_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Bomba_Bottom_2 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Bomba_Bottom_2', [[1, 1], [728, 170], [970, 90], [970,250]], 'adxONEBomba_Bottom_2').setTargeting('Format',['Bomba_Bottom_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Jumbo_Footer = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Jumbo_Footer', [[1, 1], [728, 90], [728, 170], [775, 250], [770, 250], [970, 90], [970, 250]], 'adxONEJumbo_Footer').setTargeting('Format',['Jumbo_Footer']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_1 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_1', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_1').setTargeting('Format',['Big_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_2 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_2', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_2').setTargeting('Format',['Big_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_3 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_3', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_3').setTargeting('Format',['Big_3']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_4 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_4', [[1, 1], [300, 250], [300, 170]], 'adxONEBig_4').setTargeting('Format',['Big_4']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_2_New = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_2_New', [[1, 1], [300, 250]], 'adxONEBig_2_New').setTargeting('Format',['Big_2_New']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_3_New = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_3_New', [[1, 1], [300, 250]], 'adxONEBig_3_New').setTargeting('Format',['Big_3_New']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Half_Page = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Half_Page', [[1, 1], [300, 600]], 'adxONEHalf_Page').setTargeting('Format',['Half_Page']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Half_Page_Bottom = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Half_Page_Bottom', [[1, 1], [300, 600]], 'adxONEHalf_Page_Bottom').setTargeting('Format',['Half_Page_Bottom']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_Articles = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_Articles', [[1, 1], [300, 250]], 'adxONEBig_Articles').setTargeting('Format',['Big_Articles']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_Sponsors_1 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_Sponsors_1', [[1, 1], [300, 250]], 'adxONEBig_Sponsors_1').setTargeting('Format',['Big_Sponsors_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Big_Sponsors_2 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Big_Sponsors_2', [[1, 1], [300, 250]], 'adxONEBig_Sponsors_2').setTargeting('Format',['Big_Sponsors_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Strip_1 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Strip_1', [[1, 1], [468, 60]], 'adxONEStrip_1').setTargeting('Format',['Strip_1']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Strip_2 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Strip_2', [[1, 1], [468, 60]], 'adxONEStrip_2').setTargeting('Format',['Strip_2']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Strip_3 = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Strip_3', [[1, 1], [468, 60]], 'adxONEStrip_3').setTargeting('Format',['Strip_3']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Element_Winner = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Element_Winner', [[1, 1], [330, 114]], 'adxONEElement_Winner').setTargeting('Format',['Element_Winner']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Transition = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Transition', [1, 1], 'adxONETransition').setTargeting('Format',['Transition']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/6870/ONE/ISRAEL_SOCCER/PopUnder', 'adxONEPopUnder').setTargeting('Format',['PopUnder']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Logo_Sponsors_Header = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Logo_Sponsors_Header', [[1, 1], [130, 50]], 'adxONELogo_Sponsors_Header').setTargeting('Format',['Logo_Sponsors_Header']).setCollapseEmptyDiv(true).addService(googletag.pubads());
+slot_Ad_Article_League = googletag.defineSlot('/6870/ONE/ISRAEL_SOCCER/Ad_Article_League', [[1, 1], [430, 78]], 'adxONEAd_Article_League').setTargeting('Format',['Ad_Article_League']).setCollapseEmptyDiv(true).addService(googletag.pubads());
 
 
                 /* DFP TARGETS BLOCK */
@@ -1122,8 +1120,7 @@ slot_Ad_Article_League = googletag.defineSlot('/67234617/ONE/ISRAEL_SOCCER/Ad_Ar
                 };
 
                 
-                    googletag.cmd.push(function () { googletag.display('adxONEPremium'); });
-googletag.cmd.push(function () { googletag.display('adxONEJumbo_Top'); });
+                    googletag.cmd.push(function () { googletag.display('adxONEJumbo'); });
 googletag.cmd.push(function () { googletag.display('adxONETower_Left'); });
 googletag.cmd.push(function () { googletag.display('adxONEBomba_Bottom_1'); });
 googletag.cmd.push(function () { googletag.display('adxONEBomba_Bottom_2'); });
@@ -1153,108 +1150,12 @@ googletag.cmd.push(function () { googletag.display('adxONEAd_Article_League'); }
 
         <script type="text/javascript">
             
-            
-            
-            
-
-            ClosePremiumInsidePages = function () {
-
-                closePremium();
-            }
-
-            closePremium = function ()
-            {
-                $j(".ad-container-premium").hide();
-
-                $j(".ad-container-jumbo").show();
-
-                googletag.cmd.push(function () { googletag.display('adxONEJumbo'); });
-
-
-                googletag.cmd.push(function () { googletag.display('adxONETower_Left'); });
-
-                //
-
-                
-                googletag.cmd.push(function () { googletag.display('adxONEPopUnder'); });
-
-
-                PrepareAdsElementsForResponsiveDesign();
-            }
-            
-            
-            
-            
 
             
             
             
             
-            googletag.cmd.push(function ()
-            {
-                
-                googletag.pubads().addEventListener('slotRenderEnded', function (event)
-                {
-                    //console.log(event) 
-                    var _sz = event.size;
-                    var _AU = event.slot.getAdUnitPath();
-                    var _empty = event.isEmpty;
-                    var _Service = event.serviceName;
-                    var _LineItem = event.lineItemId;
-
-                    if (_AU.indexOf("Premium") >= 1)
-                    {
-                        $j(".ad-container-premium").show();
-                        
-                        if (_empty)
-                        {
-                            $j(".ad-container-premium").hide();
-                            $j(".ad-container-jumbo").show();
-
-                            googletag.cmd.push(function () { googletag.display('adxONEJumbo'); });
-
-
-                            //googletag.cmd.push(function () { googletag.display('adxONETower_Left'); });
-
-                            //
-
-                            
-                            googletag.cmd.push(function () { googletag.display('adxONEPopUnder'); });
-
-                        }
-                        else
-                            
-                            if ( (_sz[0] == 775 && _sz[1] == 250) ||
-                                 (_sz[0] == 770 && _sz[1] == 250) ||
-                                 (_sz[0] == 775 && _sz[1] == 171) ||
-                                 (_sz[0] == 785 && _sz[1] == 171) ||
-                                 (_sz[0] == 785 && _sz[1] == 170)
-                               )
-                            {
-                                //$j("#adPremium").removeClass("adBomba, adBg").addClass("adPlasma").css("margin", "auto");
-                                $j(".ad-container-premium").hide();
-                            }
-                            else
-                                if (!(_sz[0] == 785 && _sz[1] == 170) &&
-                                    !(_sz[0] == 785 && _sz[1] == 171) &&
-                                    !(_sz[0] == 770 && _sz[1] == 250) &&
-                                    !(_sz[0] == 728 && _sz[1] == 170))
-                                {
-                                    //googletag.cmd.push(function () { googletag.display('adxONETower_Left'); });
-
-                                    //
-                                }
-                    }
-
-                    
-                }); 
-            });
-
             
-            
-            
-            
-
             gptadslotsComment = [];
 
             function GetCommentBannerDFP(commentID)
@@ -1274,8 +1175,8 @@ googletag.cmd.push(function () { googletag.display('adxONEAd_Article_League'); }
 
         var sessionNumber = GetSessionNumber();
         var serviceHost = "counter.one.co.il";
-        // uihash based on 31/03/20 12:08:11
-        var uihash = 637216308000000000;
+        // uihash based on 07/05/20 10:13:11
+        var uihash = 637245753000000000;
         if (GetCookie("trigger5a9a6aebf1fc04c4448e68da63ae99a9") < uihash)
             SetCookieMinutes("trigger5a9a6aebf1fc04c4448e68da63ae99a9", uihash, 15);
 
@@ -2625,7 +2526,7 @@ window.addEventListener("DOMContentLoaded", function () {
     </script>
 
 
-        <script type='text/javascript' src='//securepubads.g.doubleclick.net/tag/js/gpt.js'>var tmStageTransitionName = tmStage != "" && tmStage.match(/^[\d]+$/im) ? 'tmStage' : 'nope';var tmStageTransitionValue = tmStage != "" && tmStage.match(/^[\d]+$/im) ? tmStage : 0;if ( tmStageTransitionValue > 0 ) console.log('Setting Transition .setTargeting(key,val) : .setTargeting("' + tmStageTransitionName + '",' + tmStageTransitionValue + ')');googletag.pubads().definePassback('/67234617/ONE/ISRAEL_SOCCER/Transition', [[1, 1]]).setTargeting('Format',['Transition']).setTargeting('PageType',['Team'])
+        <script type='text/javascript' src='//securepubads.g.doubleclick.net/tag/js/gpt.js'>var tmStageTransitionName = tmStage != "" && tmStage.match(/^[\d]+$/im) ? 'tmStage' : 'nope';var tmStageTransitionValue = tmStage != "" && tmStage.match(/^[\d]+$/im) ? tmStage : 0;if ( tmStageTransitionValue > 0 ) console.log('Setting Transition .setTargeting(key,val) : .setTargeting("' + tmStageTransitionName + '",' + tmStageTransitionValue + ')');googletag.pubads().definePassback('/6870/ONE/ISRAEL_SOCCER/Transition', [[1, 1]]).setTargeting('Format',['Transition']).setTargeting('PageType',['Team'])
 .setTargeting('ViewNumIP',GetSessionNumber("InsidePage"))
 .setTargeting('SportCategory',['1'])
 .setTargeting('SportLeague',['1'])
@@ -2777,7 +2678,7 @@ window.addEventListener("DOMContentLoaded", function () {
         
         <div class="header-hp-top">
             <div style="height: 33px;"></div>
-            יום שבת,&nbsp;04.04.2020&nbsp;שעה&nbsp;21:51
+            יום שישי,&nbsp;08.05.2020&nbsp;שעה&nbsp;23:10
         </div>
         
 
@@ -2789,7 +2690,7 @@ window.addEventListener("DOMContentLoaded", function () {
             <a href="https://twitter.com/one_co_il"><img src="https://images.one.co.il/images/msites/2016/06/26/1315/twitter_57x22.png" /></a>
 
             
-                <a id="aStripTicker1" href="http://pubads.g.doubleclick.net/gampad/clk?id=4582589895&iu=/67234617/ONE/HP/Article_Web"><img src="https://ads.one.co.il/images/ads/2018/02/18/1230/youtube.png" /></a>
+                <a id="aStripTicker1" href="http://pubads.g.doubleclick.net/gampad/clk?id=5362607920&iu=/6870/one/hp/article_web"><img src="https://ads.one.co.il/images/ads/2018/02/18/1230/youtube.png" /></a>
             
                 <a id="aStripTicker2" href="http://bit.ly/2DSIM0E"><img src="https://ads.one.co.il/images/ads/2016/08/04/1615/191346_57x22_bg_winner.png" /></a>
             
@@ -2952,25 +2853,25 @@ window.addEventListener("DOMContentLoaded", function () {
     <div class="leagues-left-column">
         <div id="_ctl0__ctl0_ContentHolder_Body_pnlVideo" class="league-video">
 	
-            <a id="_ctl0__ctl0_ContentHolder_Body_hlVideo" title="יום בחיי אוראל דגני בזמן הקורונה" class="league-video-item" href="https://www.one.co.il/VOD/Play/69860/%d7%99%d7%95%d7%9d-%d7%91%d7%97%d7%99%d7%99-%d7%90%d7%95%d7%a8%d7%90%d7%9c-%d7%93%d7%92%d7%a0%d7%99-%d7%91%d7%96%d7%9e%d7%9f-%d7%94%d7%a7%d7%95%d7%a8%d7%95%d7%a0%d7%94" target="VOD"><img id="_ctl0__ctl0_ContentHolder_Body_imgVideoPlay" class="play" src="https://images.one.co.il/images/msites/2017/02/01/4.png" alt="נגן" border="0" /><img id="_ctl0__ctl0_ContentHolder_Body_imgVideo" class="image" src="https://images.one.co.il/images/video/segment775x460/20_03_2020_12_3830.jpg" border="0" /><span id="_ctl0__ctl0_ContentHolder_Body_lblvideo" class="caption">יום בחיי אוראל דגני בזמן הקורונה</span></a>
+            <a id="_ctl0__ctl0_ContentHolder_Body_hlVideo" title="חדש: מכבי חיפה נגד מכבי ת&amp;quot;א ב&amp;quot;משחק בית&amp;quot;" class="league-video-item" href="https://www.one.co.il/VOD/Play/70213/%d7%97%d7%93%d7%a9-%d7%9e%d7%9b%d7%91%d7%99-%d7%97%d7%99%d7%a4%d7%94-%d7%a0%d7%92%d7%93-%d7%9e%d7%9b%d7%91%d7%99-%d7%aa-quot-%d7%90-%d7%91-quot-%d7%9e%d7%a9%d7%97%d7%a7-%d7%91%d7%99%d7%aa-quot-" target="VOD"><img id="_ctl0__ctl0_ContentHolder_Body_imgVideoPlay" class="play" src="https://images.one.co.il/images/msites/2017/02/01/4.png" alt="נגן" border="0" /><img id="_ctl0__ctl0_ContentHolder_Body_imgVideo" class="image" src="https://images.one.co.il/images/video/segment775x460/29_04_2020_06_0338.jpg" border="0" /><span id="_ctl0__ctl0_ContentHolder_Body_lblvideo" class="caption">חדש: מכבי חיפה נגד מכבי ת&quot;א ב&quot;משחק בית&quot;</span></a>
             <div class="league-video-items-container" style="">
                 
-                        <a class="league-video-item" href='https://www.one.co.il/VOD/Play/69833/גם-שחקני-ליגת-העל-quot-נדבקו-quot-באתגר-הויראלי' title="גם שחקני ליגת העל &quot;נדבקו&quot; באתגר הויראלי" target="VOD">
+                        <a class="league-video-item" href='https://www.one.co.il/VOD/Play/70199/הקפטנים-של-ליגת-העל-מברכים-ליום-העצמאות' title="הקפטנים של ליגת העל מברכים ליום העצמאות" target="VOD">
                             <img src='https://images.one.co.il/images/msites/2017/02/01/4.png' class="play" alt="נגן" />
-                            <img src="https://images.one.co.il/images/video/segment109x82/18_03_2020_01_5630.jpg" class="image" />
-                            גם שחקני ליגת העל &quot;נדבקו&quot; באתגר הויראלי
+                            <img src="https://images.one.co.il/images/video/segment109x82/27_04_2020_08_3745.jpg" class="image" />
+                            הקפטנים של ליגת העל מברכים ליום העצמאות
                         </a>
                     
-                        <a class="league-video-item" href='https://www.one.co.il/VOD/Play/69814/ההצגה-חייבת-להימשך-חיפה-מול-הפועל-ת-quot-א' title="ההצגה חייבת להימשך: חיפה מול הפועל ת&quot;א" target="VOD">
+                        <a class="league-video-item" href='https://www.one.co.il/VOD/Play/70017/מקס-גרצ-apos-קין-מבית-quot-ר-מול-עידן-כהן-מהפועל' title="מקס גרצ&apos;קין מבית&quot;ר מול עידן כהן מהפועל" target="VOD">
                             <img src='https://images.one.co.il/images/msites/2017/02/01/4.png' class="play" alt="נגן" />
-                            <img src="https://images.one.co.il/images/video/segment109x82/16_03_2020_09_0433.jpg" class="image" />
-                            ההצגה חייבת להימשך: חיפה מול הפועל ת&quot;א
+                            <img src="https://images.one.co.il/images/video/segment109x82/07_04_2020_10_2918.jpg" class="image" />
+                            מקס גרצ&apos;קין מבית&quot;ר מול עידן כהן מהפועל
                         </a>
                     
-                        <a class="league-video-item" href='https://www.one.co.il/VOD/Play/69705/מאור-בוזגלו-פותח-את-הלב-בראיון-מיוחד' title="מאור בוזגלו פותח את הלב בראיון מיוחד" target="VOD">
+                        <a class="league-video-item" href='https://www.one.co.il/VOD/Play/69860/יום-בחיי-אוראל-דגני-בזמן-הקורונה' title="יום בחיי אוראל דגני בזמן הקורונה" target="VOD">
                             <img src='https://images.one.co.il/images/msites/2017/02/01/4.png' class="play" alt="נגן" />
-                            <img src="https://images.one.co.il/images/video/segment109x82/06_03_2020_04_2403.jpg" class="image" />
-                            מאור בוזגלו פותח את הלב בראיון מיוחד
+                            <img src="https://images.one.co.il/images/video/segment109x82/20_03_2020_12_3830.jpg" class="image" />
+                            יום בחיי אוראל דגני בזמן הקורונה
                         </a>
                     
             </div>
@@ -3610,61 +3511,61 @@ window.addEventListener("DOMContentLoaded", function () {
     <div class="leagues-right-column">
         
 
-        <a id="_ctl0__ctl0_ContentHolder_Body_hlTopArticle" class="article-top" href="/Article/19-20/1,1,2,55355/356456.html"><img id="_ctl0__ctl0_ContentHolder_Body_imgTopArticle" class="image" src="https://images.one.co.il/images/d/dmain/ms/gg1467608.jpg" alt="שנתון 97. מי הטוב ביותר? (גרפיקה: קרולינה אריכמן)" border="0" />
+        <a id="_ctl0__ctl0_ContentHolder_Body_hlTopArticle" class="article-top" href="/Article/19-20/1,1,2,44265/358724.html"><img id="_ctl0__ctl0_ContentHolder_Body_imgTopArticle" class="image" src="https://images.one.co.il/images/d/dmain/ms/gg1469495.jpg" alt="יובל נעים (תמונה: איציק בלניצקי, גרפיקה: קרולינה אריכמן)" border="0" />
             <div class="title rtl right">
-                <h2>שני ליגיונרים, התקפה משובחת: הרכב שנתון 97</h2>
-                <h3>15 שנתונים, 15 נבחרות: הפעם המחזור שהביא את עוואד, גאנם, המגן שיצא ממכבי חיפה לאיטליה והקשר שהגיע לגרמניה. וגם: מי הכי טוב ומי כמעט נכנס?</h3>
+                <h2>יובל נעים: להיות מאמן בישראל זה כמו כוכב נולד</h2>
+                <h3>מאמן אדומים אשדוד יורה בראיון ל-ONE: &quot;אם הייתי רוצה הייתי מאמן בליגת העל&quot;, &quot;הכדורגל שלנו רק הולך אחורה&quot;, &quot;צריך פה אנשי מקצוע שירדו לדשא&quot;</h3>
             </div>
         </a>
-                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,32316/356906.html">
-                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1467695.jpg" alt="יעקב בוזגלו (קרולינה אירכמן) (מערכת ONE)" class="image" />
-                    <h2>בוזגלו: רוב השחקנים חוטבי עצים ושואבי מים</h2>
-                    <h3>בוזגלו האב בראיון חסר מעצורים: &quot;מועדונים מנצלים כעת את השחקנים&quot;. וגם: התגלית של אשתו, צילומי העירום של פאני, ברקת, שחר, מאור והכדורגל בישראל</h3>
+                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,32095/358825.html">
+                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1469422.jpg" alt="חן עזרא מול איתן טיבי (נעם מורנו)" class="image" />
+                    <h2>ב-'AP' מפרגנים לישראל על חזרת ליגת העל</h2>
+                    <h3>האתר האמריקאי פרסם כתבה רחבה על ליגת העל שתשוב ב-30 במאי, ובה גם ערך ראיון עם ארז כלפון: &quot;החזרת הכדורגל תחזיר את הנורמליות לחיים של כולנו&quot;</h3>
                 </a>
 
                 
 
             
-                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,0/356913.html">
-                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1467698.jpg" alt="אורן חסון על המשבר (גרפיקה: קרולינה אריכמן)" class="image" />
-                    <h2>חסון: הכדורגל הישראלי יינזק בכ-200 מיליון ש&quot;ח</h2>
-                    <h3>יו&quot;ר ההתאחדות לכדורגל בראיון מיוחד ל-ONE מזהיר מפני ההשלכות אם לא יעזרו לכדורגל אחרי הקורונה, מדבר על עתידו של הרצוג ועונה על הביקורות נגדו</h3>
+                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,53332/358807.html">
+                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1469585.jpg" alt="אופואדו ואוגו מתאמנים (מערכת ONE)" class="image" />
+                    <h2>צפו: אופואדו וג'ון אוגו באימון משותף בניגריה</h2>
+                    <h3>חלוץ מכבי תל אביב, שממשיך בתהליך ההחלמה שלו מהפציעה ממנה סבל בדרבי, התאמן ביחד עם אקס הפועל באר שבע במדינתם. השניים רצו והקפיצו זה לזה כדור</h3>
                 </a>
 
                 
 
             
-                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,54030/356907.html">
-                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1467691.jpg" alt="מקסים פלקושצ'נקו נגד דוד קלטינס (מנהלת הליגות לכדורגל)" class="image" />
-                    <h2>צפו בקרב הענקים בפיפא בין ב&quot;ש למכבי חיפה</h2>
-                    <h3>דוד קלטינס, ששיחק עם ליברפול, ניצח 0:1 בתום משחק דרמטי את מקסים פלקושצ'נקו שבחר ביובנטוס בטורניר ה-ONLINE של מנהלת הליגות. צפו בתקציר המשחק</h3>
+                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,44196/358758.html">
+                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1453206.jpg" alt="איתי שכטר מול טרנט סיינסבורי (שחר גרוס)" class="image" />
+                    <h2>פתחו יומנים: משחק העונה ב-2 או 3 ביוני</h2>
+                    <h3>המחזור ה-27 בו ייפגשו התל אביביות מול החיפאיות ובית&quot;ר וב&quot;ש יחולק ל-30 ו-31 במאי, המוליכות ייפגשו בשלישי או רביעי שלאחר מכן. הלו&quot;ז המלא בפנים</h3>
                 </a>
 
                 
 
             
-                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,32095/356775.html">
-                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1467011.jpg" alt="אוהדי הספורט בישראל (צלמי ONE)" class="image" />
-                    <h2>&quot;מתפלל שנשוב להתחבק, בלי פחד מאוהד מדבק&quot;</h2>
-                    <h3>&quot;את האופסייד והשער החליפו הכפפות והמסכה, כשאנחנו נותרנו רק עם געגועים, אפילו לפסילות ה-VAR ולפקקים המייאשים&quot;, מיומנו של אוהד ותיק בזמן המגפה</h3>
+                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,0/358802.html">
+                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1469580.jpg" alt="קייס גאנם עולה לשחק במקום ניב זריהן (רדאד ג'בארה)" class="image" />
+                    <h2>בהתאחדות פנו לפיפ&quot;א לגבי 5 חילופים במשחק</h2>
+                    <h3>לקראת חזרת הכדורגל הישראלי, היו&quot;ר אורן חסון הנחה לבדוק את השינוי: &quot;מתוך רצון להקל על הקבוצות ולשמור על בריאות השחקנים בסיטואציה שנוצרה&quot;</h3>
                 </a>
 
                 
 
             
-                <a class="article-plain rtl right" href="/Article/19-20/1,1,5,29701/356704.html">
-                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1467516.jpg" alt="רומן אברמוביץ' ולב לבייב בבלומפילד (אלי גבעוני)" class="image" />
-                    <h2>חלום באדום: כשאברמוביץ' כמעט רכש את הפועל</h2>
-                    <h3>גרנט חתום, חצי נבחרת בדרך, פיגו וקאפו על הפרק. בעלי צ'לסי ולבייב אפשרו לחלום בגדול, אך העסקה התפוצצה. מאחורי הקלעים של &quot;הפספוס הגדול אי פעם&quot;</h3>
+                <a class="article-plain rtl right" href="/Article/19-20/1,1,2,0/358795.html">
+                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1462187.jpg" alt="וילי רוטנשטיינר (חגי מיכאלי)" class="image" />
+                    <h2>ההתאחדות העבירה מסמך חזרה לפעילות</h2>
+                    <h3>יותר משחקי אימון ומחנות לבוגרים, &quot;שיעורי בית&quot;, ימים מרוכזים ו&quot;פסגה ספורטיבית&quot; לצעירים: וילי רוטנשטיינר וד&quot;ר בן מלך חיברו מסמך המלצות לקבוצות</h3>
                 </a>
 
                 
 
             
-                <a class="article-plain rtl right" href="/Article/19-20/1,1,2,52549/356401.html">
-                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1467631.jpg" alt="שנתון 96, הרבה כישרון. (גרפיקה: קרולינה אריכמן)" class="image" />
-                    <h2>ים של כישרון: יונתן כהן, גלזר ולביא - שנתון 96</h2>
-                    <h3>15 שנתונים, 15 נבחרות: הפעם אנחנו עם הרכב מלא בכישרון שחלקו כבר סומן כדור העתיד של הנבחרת. וגם: וייסמן בחוד ומי בחוץ? מסכימים עם הבחירה? ענו</h3>
+                <a class="article-plain rtl right" href="/Article/19-20/1,1,1,33545/358767.html">
+                    <img src="https://images.one.co.il/images/d/dmain/ms/gg1451809.jpg" alt="דן מורי (רדאד ג'בארה)" class="image" />
+                    <h2>&quot;אם לא התאמנתם עד כה - רק אשמת קבוצתכם&quot;</h2>
+                    <h3>בלם בני יהודה דן מורי במסר לשאר שחקני הליגה: &quot;משרד הבריאות התיר לנו להתאמן לפני 15 ימים, ובתוספת 3 שבועות ויומיים, זו הכנה לגיטימית לעונה&quot;</h3>
                 </a>
 
                 
@@ -4090,13 +3991,7 @@ window.addEventListener("DOMContentLoaded", function () {
         </div>
 
         <div id="adLeftTower" class="ads ad-container-left-tower">
-            
-<div id='adxONETower_Left'>
-    
-</div>
-
-
-
+            <div id="adxONETower_Left"></div>
         </div>
 
         

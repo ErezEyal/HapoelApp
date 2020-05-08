@@ -23,3 +23,4 @@ Route::get('/home', 'MainController@showHome');
 //Route::get('/news', 'MainController@showNews');
 //Route::get('/matches', 'MainController@showMatches');
 Route::get('/all-articles', 'MainController@allArticles');
+Route::get('/loading', 'MainController@loading');

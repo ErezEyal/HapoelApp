@@ -91,6 +91,22 @@
             document.querySelector('#recentMatches').style.display = 'none';
             document.querySelector('#futureMatches').style.display = 'block';
         }
+
+        var modal = document.getElementById("myModal");
+        //var btn = document.getElementById("myBtn");
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+                document.getElementById('iframe').src = "loading";
+            }
+        }
+
+        function showPreview() {
+            var modal = document.getElementById("myModal");
+                modal.style.display = "block";
+                gsap.from("#modal-content", {y: -50, opacity: 0.1, duration: 0.4});
+            }
+
     </script>
 </body>
 </html>

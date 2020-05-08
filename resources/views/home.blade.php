@@ -244,7 +244,7 @@
     <div id="news" class="section -mt-3 mx-auto bg-white border-gray-200 shadow-md rounded-sm" style="width: 752px; min-height: 80%">
         <div class="mx-10 py-6">
             @foreach($articles->slice(0, 20) as $article)
-                <a href="{{ $article->url }}" target="_blank" class="no-underline">
+                <a onclick="showPreview()" id="article-item" href="{{ str_replace("www.sport5","m.sport5",$article->url) }}" target="preview" class="no-underline">
                     <div class="py-4 flex border-solid border-t-0 border-r-0 border-l-0 mb-3" style="border-color: #dfe1e5">
                         <div class="w-2/3" dir="rtl">
                             <div><h3 class="text-gray-800 my-0">{{ html_entity_decode($article->title) }}</h3></div>
@@ -262,7 +262,19 @@
                         </div>
                     </div>
                 </a>
+{{--                <button id="myBtn">Open Modal</button>--}}
+
             @endforeach
+            <div id="myModal" style="background-color: rgba(0,0,0,0.3);" class="modal hidden fixed z-10 pt-24 left-0 top-0 w-full h-full overflow-auto ">
+
+                <!-- Modal content -->
+                <div id="modal-content" class="relative bg-white mx-auto border-solid border-gray-400 w-3/6 shadow-lg" style="height: 700px">
+                    <div class="modal-body">
+                        <iframe id="iframe" name="preview" src="loading" class="w-full h-full border-none"></iframe>
+                    </div>
+
+                </div>
+            </div>
         </div>
 
     </div>
