@@ -9,7 +9,7 @@
                 <div class="p-3 pt-2 border-gray-300 bg-white rounded-md rounded-b-sm border-solid mb-4 overflow-hidden">
                     <div class="-mt-2 -ml-5 -mr-5 p-2" style="background-color: #F3F3F3">
                         <span class="bg-red-600 p-2 text-xs tracking-wide text-white">League Table</span>
-                        <a href="javascript:showSection('table');"><span class="pr-2 text-xs tracking-wide float-right text-gray-700 underline">Full table</span></a>
+                        <a href="#table"><span class="pr-2 text-xs tracking-wide float-right text-gray-700 underline">Full table</span></a>
                     </div>
                     <table class="table-auto border-collapse text-center">
                         <tbody>
@@ -43,7 +43,7 @@
                 <div name="matches" class="p-3 pt-2 border-gray-300 bg-white rounded-md rounded-b-sm border-solid mb-6 overflow-hidden">
                     <div class="-mt-2 -ml-5 -mr-5 p-2" style="background-color: #F3F3F3">
                         <span class="bg-red-600 p-2 text-xs tracking-wide text-white">Latest Matches</span>
-                        <a href="javascript:showSection('matches');"><span class="pr-2 text-xs tracking-wide float-right text-gray-700 underline">All matches</span></a>
+                        <a href="#matches"><span class="pr-2 text-xs tracking-wide float-right text-gray-700 underline">All matches</span></a>
                     </div>
                     <div class="grid grid-cols-2">
                         <div class="pr-4 mt-2 border-solid border-gray-300 border-b-0 border-l-0 border-t-0">
@@ -160,7 +160,7 @@
     </div>
 
 {{-- Table section   --}}
-    <div id="table" class="section">
+    <div id="table" class="py-20 w-full section -mt-4 bg-gray-200">
         <div class="-mt-3 mx-auto border-gray-200 shadow-md rounded-sm" style="border-bottom: 1px solid #e7e7e7; color: #757575; font-size: 12px; background-color: #f1f3f4;width: 752px">
             <span class="block pl-6 pt-4">Season</span>
             <span class="block pl-6 pt-1 pb-2 font-bold" style="font-size: 14px; color: #4286f4">2019-20 </span>
@@ -241,9 +241,10 @@
     </div>
 
 {{-- News section   --}}
-    <div id="news" class="section -mt-3 mx-auto bg-white border-gray-200 shadow-md rounded-sm" style="width: 752px; min-height: 80%">
+    <div id="news" class="w-full bg-gray-100 py-20">
+    <div class="section my-4 mx-auto bg-white border-gray-200 shadow-md rounded-sm" style="width: 752px; min-height: 80%">
         <div class="mx-10 py-6">
-            @foreach($articles->slice(0, 20) as $article)
+            @foreach($articles->slice(0, 10) as $article)
                 <a onclick="showPreview()" id="article-item" href="{{ str_replace("www.sport5","m.sport5",$article->url) }}" target="preview" class="no-underline">
                     <div class="py-4 flex border-solid border-t-0 border-r-0 border-l-0 mb-3" style="border-color: #dfe1e5">
                         <div class="w-2/3" dir="rtl">
@@ -262,13 +263,12 @@
                         </div>
                     </div>
                 </a>
-{{--                <button id="myBtn">Open Modal</button>--}}
 
             @endforeach
-            <div id="myModal" style="background-color: rgba(0,0,0,0.3);" class="modal hidden fixed z-10 pt-24 left-0 top-0 w-full h-full overflow-auto ">
+            <div id="myModal" style="background-color: rgba(0,0,0,0.3);" class="modal hidden fixed z-10 pt-6 left-0 top-0 w-full h-full overflow-auto ">
 
                 <!-- Modal content -->
-                <div id="modal-content" class="relative bg-white mx-auto border-solid border-gray-400 w-3/6 shadow-lg" style="height: 700px">
+                <div id="modal-content" class="relative bg-white mx-auto border-solid border-gray-400 w-7/12 shadow-lg" style="height: 90%">
                     <div class="modal-body">
                         <iframe id="iframe" name="preview" src="loading" class="w-full h-full border-none"></iframe>
                     </div>
@@ -278,10 +278,11 @@
         </div>
 
     </div>
+    </div>
 
 {{-- Matches section--}}
 
-    <div id="matches" class="section">
+    <div id="matches" class="section my-4 py-20 bg-gray-200">
             <div class="mx-auto" style="width: 800px">
                 <div class="pt-3 pb-1 ml-6">
                     <button id="recentButton" onclick="recentMatches()" class="cursor-pointer hover:bg-gray-700 outline-none px-3 mr-2 py-2 font-bold shadow-sm text-sm bg-gray-700 text-gray-200 rounded-md border-gray-400 border-solid">Recent Matches</button>
@@ -331,16 +332,14 @@
                                 @endif
                             </div>
                             <div class="text-center m-6">
-{{--                                <span style="font-size: 50px" class="font-mono align-middle {{ $match["away"] ? 'text-gray-800' : 'text-red-600' }} ">{{ $match["away"] ? $match["GoalsAgainst"] : $match["GoalsFor"]}}</span>--}}
                                 <span class="text-3xl mx-2 font-mono align-middle font-bold text-gray-600">-</span>
-{{--                                <span style="font-size: 50px" class="font-mono align-middle {{ $match["away"] ? 'text-red-600' : 'text-gray-800' }} ">{{ $match["away"] ? $match["GoalsFor"] : $match["GoalsAgainst"]}} </span>--}}
                             </div>
                         </div>
                     </div>
                 @endforeach
                 </div>
                 <div id="recentMatches">
-                    @foreach(array_reverse(array_slice($matches['pastMatches'],-20)) as $match)
+                    @foreach(array_reverse(array_slice($matches['pastMatches'],-10)) as $match)
                         <div class="flex borader-solid border-gray-400 my-6 bg-white rounded-lg rounded-b-none shadow-md">
 
                             <div class="w-1/3 text-center px-6">
